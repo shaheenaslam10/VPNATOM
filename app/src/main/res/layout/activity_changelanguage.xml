@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/loginformscreen">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="@color/mod_appbar_color">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:text="@string/settings_change_language"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:textSize="8pt"
+            android:layout_marginTop="20dp"/>
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/back_button"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:id="@+id/pfn_settings_back_image"/>
+
+        <TextView
+            android:layout_width="87dp"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:textSize="8pt"
+            android:layout_toRightOf="@+id/pfn_settings_back_image"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="5dp"
+            android:text="@string/inside_about_back"
+            android:id="@+id/pfn_settings_back"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="60dp"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:text="@string/the_private_family_network"
+            android:textColor="@color/private_family" />
+    </RelativeLayout>
+
+    <ScrollView android:layout_height="match_parent"
+        android:id="@+id/scrollView1"
+        android:layout_marginTop="100dp"
+        android:layout_width="fill_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/inside_change_lang_selected"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:textColor="@android:color/white"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:textSize="8pt"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="70dp"
+                android:background="@color/settings_relative_layout_background"
+                android:id="@+id/arabic_layout">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="8pt"
+                    android:textColor="@android:color/white"
+                    android:text="@string/inside_change_lang_arabic"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="13dp"
+                    android:fontFamily="@font/cabin_bold_ttf"/>
+
+                <ImageView
+                    android:id="@+id/aarabic_uncheck"
+                    android:layout_width="40dp"
+                    android:layout_height="90dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/changebuttondisablenew"
+                    android:layout_alignParentRight="true" />
+
+                <ImageView
+                    android:id="@+id/arabic_check"
+                    android:layout_width="40dp"
+                    android:layout_height="90dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/checkbuttonenable"
+                    android:layout_alignParentRight="true"
+                    android:visibility="invisible"/>
+
+            </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="125dp"
+                android:background="@color/settings_relative_layout_background"
+                android:id="@+id/chinese_layout">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="8pt"
+                    android:textColor="@android:color/white"
+                    android:text="@string/inside_change_lang_chinese"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="13dp"
+                    android:fontFamily="@font/cabin_bold_ttf"/>
+
+                <ImageView
+                    android:id="@+id/chinese_uncheck"
+                    android:layout_width="40dp"
+                    android:layout_height="90dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/changebuttondisablenew"
+                    android:layout_alignParentRight="true" />
+
+                <ImageView
+                    android:id="@+id/chinese_check"
+                    android:layout_width="40dp"
+                    android:layout_height="90dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/checkbuttonenable"
+                    android:layout_alignParentRight="true"
+                    android:visibility="invisible"/>
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="180dp"
+                    android:background="@color/settings_relative_layout_background"
+                    android:id="@+id/dutch_layout">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="8pt"
+                        android:textColor="@android:color/white"
+                        android:text="@string/inside_change_lang_dutch"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="13dp"
+                        android:fontFamily="@font/cabin_bold_ttf"/>
+
+                    <ImageView
+                        android:id="@+id/dutch_uncheck"
+                        android:layout_width="40dp"
+                        android:layout_height="90dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/changebuttondisablenew"
+                        android:layout_alignParentRight="true" />
+
+                    <ImageView
+                        android:id="@+id/dutch_check"
+                        android:layout_width="40dp"
+                        android:layout_height="90dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/checkbuttonenable"
+                        android:layout_alignParentRight="true"
+                        android:visibility="invisible"/>
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="235dp"
+                    android:background="@color/settings_relative_layout_background"
+                    android:id="@+id/english_layout">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="8pt"
+                        android:textColor="@android:color/white"
+                        android:text="@string/inside_change_lang_eng"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="13dp"
+                        android:fontFamily="@font/cabin_bold_ttf"/>
+
+                    <ImageView
+                        android:id="@+id/english_check"
+                        android:layout_width="40dp"
+                        android:layout_height="90dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/checkbuttonenable"
+                        android:layout_alignParentRight="true"
+                        android:visibility="invisible"/>
+
+                    <ImageView
+                        android:id="@+id/english_uncheck"
+                        android:layout_width="40dp"
+                        android:layout_height="90dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/changebuttondisablenew"
+                        android:layout_alignParentRight="true"
+                        />
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="290dp"
+                    android:background="@color/settings_relative_layout_background"
+                    android:id="@+id/french_layout">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="8pt"
+                        android:textColor="@android:color/white"
+                        android:text="@string/inside_change_lang_french"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="13dp"
+                        android:fontFamily="@font/cabin_bold_ttf"/>
+
+                    <ImageView
+                        android:id="@+id/french_uncheck"
+                        android:layout_width="40dp"
+                        android:layout_height="90dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/changebuttondisablenew"
+                        android:layout_alignParentRight="true" />
+
+                    <ImageView
+                        android:id="@+id/french_check"
+                        android:layout_width="40dp"
+                        android:layout_height="90dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/checkbuttonenable"
+                        android:layout_alignParentRight="true"
+                        android:visibility="invisible"/>
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="345dp"
+                    android:background="@color/settings_relative_layout_background"
+                    android:id="@+id/german_layout">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="8pt"
+                        android:textColor="@android:color/white"
+                        android:text="@string/inside_change_lang_german"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="13dp"
+                        android:fontFamily="@font/cabin_bold_ttf"/>
+
+                    <ImageView
+                        android:id="@+id/german_uncheck"
+                        android:layout_width="40dp"
+                        android:layout_height="90dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/changebuttondisablenew"
+                        android:layout_alignParentRight="true" />
+
+                    <ImageView
+                        android:id="@+id/german_check"
+                        android:layout_width="40dp"
+                        android:layout_height="90dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/checkbuttonenable"
+                        android:layout_alignParentRight="true"
+                        android:visibility="invisible"/>
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="400dp"
+                    android:background="@color/settings_relative_layout_background"
+                    android:id="@+id/spanish_layout">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="8pt"
+                        android:textColor="@android:color/white"
+                        android:text="@string/inside_change_lang_spanish"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="13dp"
+                        android:fontFamily="@font/cabin_bold_ttf"/>
+
+                    <ImageView
+                        android:id="@+id/spanish_uncheck"
+                        android:layout_width="40dp"
+                        android:layout_height="90dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/changebuttondisablenew"
+                        android:layout_alignParentRight="true" />
+
+                    <ImageView
+                        android:id="@+id/spanish_check"
+                        android:layout_width="40dp"
+                        android:layout_height="90dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/checkbuttonenable"
+                        android:layout_alignParentRight="true"
+                        android:visibility="invisible"/>
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="455dp"
+                    android:layout_marginBottom="40dp"
+                    android:background="@color/settings_relative_layout_background"
+                    android:id="@+id/turkish_layout">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="8pt"
+                        android:textColor="@android:color/white"
+                        android:text="@string/inside_change_lang_turkish"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="13dp"
+                        android:fontFamily="@font/cabin_bold_ttf"/>
+
+                    <ImageView
+                        android:id="@+id/turkish_uncheck"
+                        android:layout_width="40dp"
+                        android:layout_height="90dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/changebuttondisablenew"
+                        android:layout_alignParentRight="true" />
+
+                    <ImageView
+                        android:id="@+id/turkish_check"
+                        android:layout_width="40dp"
+                        android:layout_height="90dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/checkbuttonenable"
+                        android:layout_alignParentRight="true"
+                        android:visibility="invisible"/>
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

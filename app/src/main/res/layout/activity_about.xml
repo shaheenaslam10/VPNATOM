@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/loginformscreen">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="@color/mod_appbar_color">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:text="@string/inside_about_heading"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:textSize="8pt"
+            android:layout_marginTop="20dp"/>
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/back_button"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:id="@+id/pfn_settings_back_image"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:textSize="8pt"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="20dp"
+            android:text="@string/inside_change_lang_back"
+            android:id="@+id/pfn_settings_back"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="60dp"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:text="@string/the_private_family_network"
+            android:textColor="@color/private_family" />
+    </RelativeLayout>
+
+    <ScrollView android:layout_height="match_parent"
+        android:id="@+id/scrollView1"
+        android:layout_marginTop="100dp"
+        android:layout_width="fill_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/settings_relative_layout_background"
+                android:id="@+id/pfn_opportunity">
+
+                <!--<ImageView-->
+                    <!--android:layout_width="55dp"-->
+                    <!--android:layout_height="100dp"-->
+                    <!--android:background="@drawable/profileicon"-->
+                    <!--android:layout_marginLeft="10dp"/>-->
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="8pt"
+                    android:textColor="@android:color/white"
+                    android:text="@string/inside_about_pfn_opportunity"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="13dp"
+                    android:fontFamily="@font/cabin_bold_ttf"
+                    android:id="@+id/pfn_opportunity_text"/>
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/forwardicon"
+                    android:layout_alignParentRight="true"
+                    android:id="@+id/pfn_opportunity_image"/>
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/settings_relative_layout_background"
+                    android:id="@+id/privacy_policy">
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="55dp"-->
+                        <!--android:layout_height="100dp"-->
+                        <!--android:background="@drawable/changelangageicon"-->
+                        <!--android:layout_marginLeft="10dp"/>-->
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="8pt"
+                        android:textColor="@android:color/white"
+                        android:text="@string/inside_about_privacy_policy"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="13dp"
+                        android:fontFamily="@font/cabin_bold_ttf"
+                        android:id="@+id/privacy_policy_text"/>
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/forwardicon"
+                        android:layout_alignParentRight="true"
+                        android:id="@+id/privacy_policy_image"/>
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/settings_relative_layout_background"
+                    android:id="@+id/terms_of_service">
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="55dp"-->
+                        <!--android:layout_height="100dp"-->
+                        <!--android:background="@drawable/ondemandvpn"-->
+                        <!--android:layout_marginLeft="10dp"/>-->
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="8pt"
+                        android:textColor="@android:color/white"
+                        android:text="@string/inside_about_terms"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="13dp"
+                        android:fontFamily="@font/cabin_bold_ttf"
+                        android:id="@+id/terms_of_service_text"/>
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/forwardicon"
+                        android:layout_alignParentRight="true"
+                        android:id="@+id/terms_of_service_image"/>
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:textColor="@android:color/white"-->
+                    <!--android:fontFamily="@font/cabin_bold_ttf"-->
+                    <!--android:layout_marginTop="390dp"-->
+                    <!--android:layout_marginLeft="20dp"-->
+                    <!--android:textSize="8pt"-->
+                    <!--android:text="More"/>-->
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <!--<RelativeLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="50dp"-->
+                    <!--android:layout_marginTop="430dp"-->
+                    <!--android:background="@color/settings_relative_layout_background">-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="55dp"-->
+                        <!--android:layout_height="100dp"-->
+                        <!--android:background="@drawable/supportcenter"-->
+                        <!--android:layout_marginLeft="10dp"/>-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:textSize="8pt"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:text="Support Centre"-->
+                        <!--android:layout_marginLeft="70dp"-->
+                        <!--android:layout_marginTop="13dp"-->
+                        <!--android:fontFamily="@font/cabin_bold_ttf"/>-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="20dp"-->
+                        <!--android:layout_height="20dp"-->
+                        <!--android:layout_marginTop="15dp"-->
+                        <!--android:layout_alignParentEnd="true"-->
+                        <!--android:layout_marginRight="10dp"-->
+                        <!--android:background="@drawable/forwardicon"-->
+                        <!--android:layout_alignParentRight="true" />-->
+
+                <!--</RelativeLayout>-->
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <!--<RelativeLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="50dp"-->
+                    <!--android:layout_marginTop="485dp"-->
+                    <!--android:background="@color/settings_relative_layout_background">-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="55dp"-->
+                        <!--android:layout_height="100dp"-->
+                        <!--android:background="@drawable/aboutprivate_familynetwork"-->
+                        <!--android:layout_marginLeft="10dp"/>-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:textSize="8pt"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:text="About The Private Family Network"-->
+                        <!--android:layout_marginLeft="70dp"-->
+                        <!--android:layout_marginTop="13dp"-->
+                        <!--android:fontFamily="@font/cabin_bold_ttf"/>-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="20dp"-->
+                        <!--android:layout_height="20dp"-->
+                        <!--android:layout_marginTop="15dp"-->
+                        <!--android:layout_alignParentEnd="true"-->
+                        <!--android:layout_marginRight="10dp"-->
+                        <!--android:background="@drawable/forwardicon"-->
+                        <!--android:layout_alignParentRight="true" />-->
+
+                <!--</RelativeLayout>-->
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <!--<RelativeLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="50dp"-->
+                    <!--android:layout_marginTop="540dp"-->
+                    <!--android:background="@color/settings_relative_layout_background">-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="55dp"-->
+                        <!--android:layout_height="100dp"-->
+                        <!--android:background="@drawable/logout"-->
+                        <!--android:layout_marginLeft="10dp"/>-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:textSize="8pt"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:text="Log Out"-->
+                        <!--android:layout_marginLeft="70dp"-->
+                        <!--android:layout_marginTop="13dp"-->
+                        <!--android:fontFamily="@font/cabin_bold_ttf"/>-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="20dp"-->
+                        <!--android:layout_height="20dp"-->
+                        <!--android:layout_marginTop="15dp"-->
+                        <!--android:layout_alignParentEnd="true"-->
+                        <!--android:layout_marginRight="10dp"-->
+                        <!--android:background="@drawable/forwardicon"-->
+                        <!--android:layout_alignParentRight="true" />-->
+
+                <!--</RelativeLayout>-->
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

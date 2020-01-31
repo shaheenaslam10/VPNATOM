@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+tools:context="com.next.sheharyar.CountriesFragment"
+android:background="@drawable/loginformscreen">
+
+
+<SearchView
+    android:id="@+id/search_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/searchbarwhiterounded"
+    android:clickable="true"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:queryHint="@string/Search"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:background="@color/settings_relative_layout_transparent_background">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="8pt"
+            android:text="@string/favourites"/>
+
+        <LinearLayout
+            android:id="@+id/appear_here"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:textSize="7pt"
+                android:text="@string/click_to_add_1"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/heart"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:textSize="7pt"
+                android:text="@string/click_to_add_2"/>
+
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/fav_list"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_below="@+id/appear_here"
+            android:layout_marginTop="10dp"
+            android:scrollbars="vertical"/>
+
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp"
+    android:background="@color/settings_relative_layout_transparent_background"
+    android:visibility="visible"
+    android:id="@+id/countries_layout">
+
+    <!--<ScrollView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:layout_marginTop="45dp">-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+        <ListView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical"
+            android:layout_marginTop="40dp"/>
+
+    </RelativeLayout>
+
+
+    <!--</ScrollView>-->
+
+    <TextView
+        android:id="@+id/hd_location_countries"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:fontFamily="@font/cabin_bold_ttf"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="8pt"
+        android:text="@string/hd_stream_inside_locations_countries"
+        android:visibility="visible"/>
+
+
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:textColor="@android:color/white"-->
+    <!--android:fontFamily="@font/cabin_bold_ttf"-->
+    <!--android:layout_marginTop="40dp"-->
+    <!--android:layout_marginLeft="10dp"-->
+    <!--android:textSize="5pt"-->
+    <!--android:text="Your Favourite Locations will appear here"/>-->
+
+</RelativeLayout>
+
+
+</LinearLayout>

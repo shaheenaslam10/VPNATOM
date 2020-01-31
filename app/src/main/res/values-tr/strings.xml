@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Turkish Language -->
+<resources>
+
+    <string name="logout">Çıkış Yap</string>
+    <string name="logout_description">Çıkış yapmak istediğinize emin misiniz? Artık PFN servislerine bağlanmayacaksınız</string>
+
+    <string name="click_to_add_channel">favori kanallarınızı buraya eklemek için simgesini tıklayın</string>
+
+    <string name="error_list">Liste alınırken hata oluştu</string>
+
+    <string name="app_name">VPNATOM</string>
+    <string name="military_grade">Tam Koruma İçin Askeri Sınıf Şifreleme</string>
+    <string name="military_discription">Anonimliğinizi sağlayan güçlendirilmiş şifreleme ile tam İnternet Özgürlüğü, güvenlik ve gizlilik elde edin</string>
+    <string name="ozone_protection">Ozon Koruması</string>
+    <string name="ozone_description">Güvenlikten korunma ile 7/24 koruma</string>
+    <string name="dont_have_account">
+PFN hesabınız yok mu?</string>
+    <string name="done_desc">Kullanıcı adınızı ve şifrenizi girin ve “Bitti” ye tıklayın.</string>
+    <string name="share_text">Merhaba, Bir şeyin başlangıcına girmek istemişseniz Gerçekten Çok Büyük - Şimdi şansınız - büyük bir Global pazarda patlayıcı büyümenin tadını çıkarmak için yakında mükemmel zamanlanmış bir yenilik başlatmak. Payınızı istiyorsanız - Daha fazla bilgi için burayı tıklatın ,,, https: //user.theprivatefamilynetwork.com/registration/</string>
+    <string name="onDemand_working">Talep Üzerine Çalışma</string>
+
+    <string name="click_to_add_1">Tıkla    </string>
+    <string name="click_to_add_2"> favori konumunuzu buraya eklemek için simgesini tıklayın</string>
+
+    <string name="total_online_security2">Tüm aile için Güvenlik, Gizlilik ve internet özgürlüğü</string>
+
+    <string name="click_here_to_learn_more">Daha fazlasını öğrenmek için buraya tıklayın</string>
+    <string name="security_app_pays">Kendisine ödediği güvenlik çözümü</string>
+    <string name="the_private_family_network">Özel Aile Ağı</string>
+    <string name="world_class_premium_online_security_solutions">Dünya Klasında Premium Çevrimiçi Güvenlik Çözümleri</string>
+    <string name="incridible_opertunity">
+İnanılmaz Fırsat</string>
+    <string name="gold_standard">
+İlişkisel Pazarlamada Altın Standart</string>
+    <string name="private_family_network">ugün Özel Aile Ağına Erişim
+ve Ekstra Faydaların tadını çıkarın.</string>
+    <string name="app_intro_skip">atlamak</string>
+    <string name="next">SONRAKİ</string>
+    <string name="skip">ATLA</string>
+    <string name="start">ANLADIM</string>
+    <string name="done">tamam</string>
+    <string name="app_bar_configure">Yapılandır</string>
+    <string name="app_bar_pfn">PFN</string>
+    <string name="gravity_discription">
+Yerçekimi olmadan nerede olurduk? Dışarıdaki tüm tehditler sisteminize sızabilir ve sizi riske atabilir.</string>
+    <string name="back">Geri</string>
+    <string name="enabled_gravity_discription">
+Yerçekimi, aklınızı sağlamak için sizi koruyor. Gün boyunca virüslerden, kötü web sitelerinden ve kötü amaçlı yazılımlardan korunursunuz.</string>
+    <string name="login">Oturum aç</string>
+    <string name="hd_stream">HD STREAM</string>
+    <string name="hd_stream_description">Dünyanın herhangi bir yerinden akış yaparken premium sınırsız bant genişliğini yaşayın</string>
+    <string name="internet_freedom_description">Coğrafi sınırlama olmadan internette gezin ve dünyanın her köşesinden içeriğin tadını çıkar</string>
+    <string name="security_privacy_description">Anonimliğinizi sağlayan güçlendirilmiş şifreleme ile toplam internet özgürlüğü ve gizliliği elde edersiniz.</string>
+    <string name="internet_freedom">İNTERNET ÖZGÜRLÜĞÜ</string>
+    <string name="security_privacy">GÜVENLİK / GİZLİLİK</string>
+    <string name="file_sharing">DOSYA PAYLAŞIMI</string>
+    <string name="file_sharing_description">Dosyalarınızı anında ve özel olarak çok sayıda yüksek hızlı dosya paylaşım platformunda paylaşın</string>
+    <string name="dedicated_ip">DEDİLE IP</string>
+    <string name="dedicated_ip_descriptipon">Çok yakında</string>
+    <string name="mode_selection">Amacınıza en iyi hizmet veren modu seçin.
+En uygun modu kullanarak ağ performansınızı optimize edebiliriz.</string>
+    <string name="select_mode">Mod seç</string>
+    <string name="app_bar_forgot_password_text">Parolanızı mı unuttunuz</string>
+    <string name="forgot_password">Parolanızı mı unuttunuz?</string>
+    <string name="app_bar_gravity">Gravity</string>
+    <string name="forgot_password_instructions">Kullanıcı adınızı girin ve ‘Bitti’ye dokunun. Şifrenizi nasıl sıfırlayacağınızla ilgili talimatları içeren bir e-posta göndereceğiz.</string>
+    <string name="title_activity_main_app">MainAppActivity</string>
+    <string name="select_mode_that_serves_you_best">
+Amacınıza en uygun Modu seçerek Ağ performansınızı optimize edin</string>
+    <string name="label_title"><font fgcolor="#ffff0000">Özel Aile Ağı</font></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="title_activity_location_countries"><font fgcolor="#ffff0000">yer</font></string>
+    <string name="title_activity_purpose">PurposeActivity</string>
+    <string name="title_activity_channel">ChannelActivity</string>
+    <string name="title_activity_internet_freedom">InternetFreedomActivity</string>
+    <string name="title_activity_security">SecurityActivity</string>
+    <string name="title_activity_location_security">LocationSecurityActivity</string>
+    <string name="title_activity_file_sharing">FileSharingActivity</string>
+    <string name="title_activity_file_share_quick_connect">FileShareQuickConnectActivity</string>
+    <string name="title_activity_file_share_mode_selection">FileShareModeSelectionActivity</string>
+    <string name="title_activity_internet_freedom_locations">InternetFreedomLocationsActivity
+    </string>
+    <string name="atom_secret_key">b12e0405d803ba771c46bb94be29a0a59f976b06</string>
+
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates the use of Atom SDK for
+            Privacy and Security.
+
+
+        ]]>
+    </string>
+    <string name="label_uuid">UUID</string>
+    <string name="label_connect_via">Connect with</string>
+    <string name="label_connect_with_psk">Connect with Pre-Shared Key</string>
+    <string name="label_connect_with_params">Connect with Params</string>
+    <string name="label_connect_with_dedicated_ip">Connect with Dedicated IP</string>
+    <string name="lbl_optimize_connection">Optimize Connection</string>
+    <string name="lbl_connect">Connect</string>
+    <string name="lbl_select_protocol">Select Protocol</string>
+    <string name="lbl_dedicated_ip">Dedicated IP</string>
+    <string name="lbl_skip_user_verification">Skip User Verification</string>
+    <string name="lbl_pre_shared_key">Pre-Shared Key</string>
+    <string name="empty_secret_key">Secret Key is required</string>
+    <string name="lbl_primary_protocol">Primary Protocol</string>
+    <string name="lbl_secondary_protocol">Secondary Protocol</string>
+    <string name="lbl_tertiary_protocol">Tertiary Protocol</string>
+    <string name="lbl_select_country">Select Country</string>
+
+    <string name="doiget">Kendi Benzersiz Özel Ailem \nNetwork Web Sitesi URL\'mi Aldım</string>
+    <string name="doyouprovide">Herhangi bir Pazarlama Malzemesi veya Araçları Sağlıyor musunuz?</string>
+    <string name="caniview">Ödül Komisyonlarım ve Kullanıcı Yönlendirmelerimi Görüntüleyebilir miyim?</string>
+    <string name="howdoigetpaid">Komisyonlarım Ödüllerini Nasıl Ödeyebilirim?</string>
+    <string name="caniusemyunique">Çevrimdışı Tanıtım için Eşsiz Özel Aile Ağı web sitemi kullanabilir miyim?</string>
+
+    <!-- <string name="answer1">Yes, you get your very own unique private family network relationship marketing referral website,  that you can immediately use and share with all of your online promotions. Add it to your own website, outgoing emails, or even your Facebook and LinkedIn profiles.\n\nEach and every click that is generated from your unique private family network referral website, will be tracked by our private family network software marketing system.  You\'ll be able to view all of your website visitors and sales in your private family network service user back office area at any time.</string>
+     <string name="answer2">Yes. Once you purchase your security app and set it up, you\'ll instantly receive your own personalized website and get access to a variety of simple to copy and paste marketing tools that you can use immediately to help generate referral user app commissions.\n\nEach of those marketing tools will have your own unique relationship marketing link embedded in it so that the visitors you refer to your website will always be tracked by our global secure tracking system. You\'ll also have 24/7 access to a host of training manuals and a selection of live and video archived product and opportunity training webinars via your back office covering a wide range of topics. If you need help in an area, Just ask us and we\'ll cover it!</string>
+     <string name="answer3">Yes you can.\n\nYou will get complete access to all of your reward commissions and referral website visitor traffic in your private back office area.\n\nYou will also be able to view your performance on an hr/daily/weekly and monthly basis with full reporting tools available.</string>
+     <string name="answer4">Your digital account will be credited with direct referral rewards and bonuses once your referred users have successfully purchased, downloaded and activated their App. You will also receive residual ongoing monthly rewards once you have qualified to earn at specific levels of our matrix rewards program. You must have directly referred 1 currently active App service user to earn from levels 1-3. Three currently active direct App service referrals are required to earn from level 4 to 6 and earnings beyond level 7 requires a minimum of 5 currently active directly referred App service users.  Watch our opportunity video for more information on how the commissions, rewards and bonuses are calculated.\n\nAll Rewards and bonus commissions are paid out directly internationally on the 15th of each calender month into users back office online eBanking Account. Further details are set out in our marketing program opportunity PDF on our opportunity page.</string>
+     <string name="answer5">Yes you can.\n\nYou can use your Private Family Network website user id to promote your security products and services both online and offline, provided it complies with our marketing program terms of use.\n\nOffline flyers, promotional and business cards or mailers are some of the many ideas for offline marketing campaigns which your unique PFN code can be used for.</string> -->
+
+    <!-- P2p Contents -->
+
+    <string name="toolbar_name">P2P Koruması</string>
+    <string name="toolbar_back_button">PFN</string>
+    <string name="p2p_protection">
+P2P Koruması</string>
+    <string name="p2p_protection_description">
+Dosyaları çevrimiçi olarak indirirken veya paylaşırken virüsleri, kötü amaçlı yazılımları vb. Durdurun</string>
+    <string name="content_filtering_heading">İçerik filtreleme</string>
+    <string name="content_description">
+İstenmeyen web içeriğini filtrele</string>
+
+    <!-- Ozone Contents -->
+
+    <string name="ozone_antivirus">antivirüs</string>
+    <string name="ozone_toolbar_back_button">PFN</string>
+    <string name="ozone_toolbar_heading">Ozon</string>
+    <string name="ozone_antivirus_description">Gelen tehditlere karşı koruyun</string>
+    <string name="ozone_content_filtering">İçerik filtreleme</string>
+    <string name="ozone_content_filtering_description">İstenmeyen web içeriğini filtrele</string>
+    <string name="ozone_ids_ips">IDS/IPS</string>
+    <string name="ozone_ids_ips_description">Davetsiz misafirlere karşı algılama ve koruma</string>
+    <string name="ozone_url_filtering">
+URL FİLTRELEME</string>
+    <string name="ozone_url_filtering_description">Hangi web sitelerinin yüklenmesine izin verildiğini kontrol edin
+</string>
+    <string name="ozone_app_filtering">APP FİLTRELEME</string>
+    <string name="ozone_app_filtering_description">
+Hangi uygulamaların çalıştırılmasına izin verildiğini kontrol edin</string>
+    <string name="ozone_url_filtering_config">Yapılandır</string>
+    <string name="ozone_app_filtering_config">Yapılandır</string>
+
+    <!-- Gravity Contents -->
+
+    <string name="gravity_toolbar_heading">Gravity</string>
+    <string name="gravity_toolbar_back_button">PFN</string>
+    <string name="gravity_toolbar_configure">Yapılandır</string>
+    <string name="gravity_disabled_text">Engelli</string>
+    <string name="gravity_enabled_text">Etkin</string>
+    <string name="gravity_text_large">Gravity</string>
+    <string name="gravity_text_large_description">Yerçekimi olmadan nerede olurduk? Dışarıdaki tüm tehditler sisteminize sızabilir ve sizi riske atabilir.</string>
+
+    <!-- Settings Contents -->
+
+    <string name="settings_toolbar_heading">Ayarlar</string>
+    <string name="settings_toolbar_back_button">PFN</string>
+    <string name="settings_app_settings">Uygulama ayarları</string>
+    <string name="settings_profile">Profil</string>
+    <string name="settings_protocol">Protokol</string>
+    <string name="settings_change_language">Dili değiştir</string>
+    <string name="settings_advanced_settings">Gelişmiş Ayarlar</string>
+    <string name="settings_on_demand_vpn">Talep PFN\'de</string>
+    <string name="settings_more">Daha</string>
+    <string name="settings_support_center">Destek Merkezi</string>
+    <string name="settings_about">Özel Aile Ağı Hakkında</string>
+    <string name="settings_logout">Çıkış Yap</string>
+
+
+    <!-- settings Inside Protocol -->
+
+    <string name="inside_profile">Kullanıcı adı</string>
+    <string name="inside_profile_heading">Profil</string>
+    <string name="inside_profile_back">Ayarlar</string>
+    <string name="inside_protocol_heading">Protokol</string>
+    <string name="inside_protocol_back">Ayarlar</string>
+    <string name="inside_recomended">ÖNERİLEN PROTOKOLLER</string>
+    <string name="inside_automatic">Otomatik</string>
+    <string name="inside_automatic_description">PFN sizin için en uygun protokolü seçsin</string>
+    <string name="inside_ipsec">IPSEC</string>
+    <string name="inside_ipsec_description">Daha yüksek güvenlik için bunu seçin.</string>
+    <string name="inside_ikev2">IKEv2</string>
+    <string name="inside_ikev2_description">Güvenilir bağlantı için bunu seçin</string>
+    <string name="inside_manual_protocols">MANÜEL PROTOKOLLER</string>
+    <string name="inside_show_connect">Bağlantı Kılavuzunu Göster.</string>
+    <string name="inside_show_connect_description">Bağlantı ekranında bir kılavuz gösterir.</string>
+    <string name="inside_l2tp">L2TP</string>
+    <string name="inside_l2tp_description">Daha az hız, daha fazla güvenlik.</string>
+    <string name="inside_unable_connect">
+Bağlanılamıyor?</string>
+    <string name="inside_unable_conn_description">Sorun giderme kılavuzu</string>
+
+    <!-- Protocol inside Unable to connect ? -->
+
+    <string name="inside_unable_connect_heading">Sorun giderme</string>
+    <string name="inside_unable_connect_back">Protokol</string>
+    <string name="inside_unable_connect_description">Bu hızlı sorun giderme kılavuzunu takip edin:</string>
+    <string name="protocol_bullet_one">1. Bir Manuel Protokol seçin</string>
+    <string name="protocol_bullet_two">2. Uygulama ana ekranına geri dönün</string>
+    <string name="protocol_bullet_three">3. Konumunuzu seçin &amp; bağlamak</string>
+    <string name="protocol_bullet_four">
+4. Sunucu profilini PFN kimlik bilgileriniz \nand cihaz güvenlik kodunuzla yükleyin</string>
+    <string name="protocol_bullet_five">5. Cihaz Ayarları> PFN’e gidin.</string>
+    <string name="protocol_bullet_six">
+6. PFN Yapılandırma anahtarını değiştirin (başarısız olursa, farklı konumlar ve protokoller)</string>
+
+
+    <!-- Settings Change language -->
+
+    <string name="inside_change_lang_heading">
+Dili değiştir</string>
+    <string name="inside_change_lang_back">Ayarlar</string>
+    <string name="inside_change_lang_selected">Seçilen Dil</string>
+    <string name="inside_change_lang_arabic">Arapça</string>
+    <string name="inside_change_lang_chinese">Çince</string>
+    <string name="inside_change_lang_dutch">Flemenkçe</string>
+    <string name="inside_change_lang_eng">ingilizce</string>
+    <string name="inside_change_lang_french">Fransızca</string>
+    <string name="inside_change_lang_german">Almanca</string>
+    <string name="inside_change_lang_spanish">İspanyol</string>
+    <string name="inside_change_lang_turkish">Türk</string>
+
+    <!-- Settings On Demand PFN -->
+
+    <string name="inside_on_demand_heading">Bölünmüş Tünel</string>
+    <string name="inside_on_demand_back">Ayarlar</string>
+    <string name="inside_on_demand_setup">Bölünmüş Tünel Oluşturma</string>
+    <string name="inside_on_demand_large_text">Bölünmüş Tünel</string>
+    <string name="inside_on_demand_large_text_description">Bölünmüş tünelleme, diğer trafiğin doğrudan İnternet\'e erişmesine izin verirken, yalnızca PFN ağı üzerinden yalnızca belirli trafiği bölme ve yönlendirme tekniğidir.</string>
+
+    <!-- Settings Support Centre -->
+
+    <string name="inside_support_heading">Destek bileti</string>
+    <string name="inside_support_back">Ayarlar</string>
+    <string name="inside_support_submit_text">Destek bileti gönderin</string>
+    <string name="inside_support_description">Yanıtlar PFN hesabınızın e-posta adresinize gönderilecek \nMüşteri destek ekibimizden.</string>
+    <string name="inside_support_hint">Lütfen, ayrıntılı olarak, yaşadığınız sorunu açıklayın.</string>
+    <string name="inside_support_button">Gönder</string>
+
+    <!-- Settings About -->
+
+    <string name="inside_about_heading">hakkında</string>
+    <string name="inside_about_back">Ayarlar</string>
+    <string name="inside_about_pfn_opportunity">
+PFN Fırsatı</string>
+    <string name="inside_about_pfn_back_office">PFN Arka Ofis</string>
+    <string name="inside_about_privacy_policy">
+Gizlilik Politikası</string>
+    <string name="inside_about_terms">
+Kullanım Şartları</string>
+
+    <!-- Faq Contents -->
+
+    <string name="inside_faq_heading">FAQ</string>
+    <string name="inside_faq_back">PFN</string>
+    <string name="inside_faq_one_text">Kendi Benzersiz Özel Ailem \nNetwork Web Sitesi URL\'mi Aldım</string>
+    <string name="inside_faq_two_text">Herhangi bir Pazarlama Malzemesi veya Araçları Sağlıyor musunuz?</string>
+    <string name="inside_faq_three_text">Ödül Komisyonlarım ve Kullanıcı Yönlendirmelerimi Görüntüleyebilir miyim?</string>
+    <string name="inside_faq_four_text">Komisyonlarım Ödüllerini Nasıl Ücretlendiririm \nve Bonuslar?</string>
+    <string name="inside_faq_five_text">Çevrimdışı Tanıtım için Eşsiz Özel Aile Ağı web sitemi kullanabilir miyim?</string>
+
+    <!-- inside Faq one Contents -->
+
+    <string name="inside_faq_one_heading">Cevap</string>
+    <string name="inside_faq_one_back">FAQ</string>
+    <string name="answer1">Evet, kendi benzersiz özel aile ağı ilişkisi pazarlama yönlendirme web sitenizi elde edersiniz, bu sayede hemen tüm çevrimiçi promosyonlarınızı kullanabilir ve paylaşabilirsiniz. Kendi web sitenize, giden e-postalarınıza veya hatta Facebook ve LinkedIn profillerinize ekleyin. \n\nÖzel aile ağı başvuru web sitenizden oluşturulan her tıklama, özel aile ağı yazılım pazarlama sistemimiz tarafından izlenecektir. Tüm web sitesi ziyaretçilerini ve satışlarınızı, istediğiniz zaman özel aile ağı servis kullanıcı arka ofisinizde görebileceksiniz.</string>
+
+
+    <!-- inside Faq two Contents -->
+
+    <string name="inside_faq_two_heading">Cevap</string>
+    <string name="inside_faq_two_back">FAQ</string>
+    <string name="answer2">Evet. Güvenlik uygulamanızı satın aldıktan ve kurduktan sonra, kendi kişiselleştirilmiş web sitenizi anında alacak ve başvuru kullanıcı uygulama komisyonlarının oluşturulmasına yardımcı olmak için hemen kullanabileceğiniz çeşitli pazarlama araçları kopyalayıp yapıştırın. \n\nEn Bu pazarlama araçlarının kendilerine ait benzersiz bir ilişki pazarlama bağlantısına sahip olması, böylece web sitenize yönlendirdiğiniz ziyaretçilerin her zaman global güvenli izleme sistemimiz tarafından izlenmesini sağlayacaktır. Ayrıca geniş bir yelpazedeki konuları kapsayan bir dizi eğitim kılavuzuna ve çeşitli arşiv ve video arşivli ürünlere ve fırsat eğitim web seminerine 7/24 erişim hakkına sahip olacaksınız. Bir bölgede yardıma ihtiyacınız varsa, sadece bize sorun ve onu ele alacağız!</string>
+    <!-- inside Faq three Contents -->
+
+    <string name="inside_faq_three_heading">Cevap</string>
+    <string name="inside_faq_three_back">FAQ</string>
+    <string name="answer3">Evet. Yapabilirsin. \n\nÖzel ödül ofisinizdeki tüm ödül komisyonları ve yönlendirme web sitesi ziyaretçi trafiğine tam erişim elde edersiniz. \n\nYerilerinizi bir hr / günlük / haftalık olarak da görebilirsiniz. Tam raporlama araçları ile aylık olarak kullanılabilir.</string>
+
+    <!-- inside Faq four Contents -->
+
+    <string name="inside_faq_four_heading">Cevap</string>
+    <string name="inside_faq_four_back">FAQ</string>
+    <string name="answer4">Dijital hesabınız, başvurulan kullanıcılarınızın başarılı bir şekilde satın aldıkları, indirdikleri ve Uygulamalarını etkinleştirdikten sonra doğrudan referans ödülleri ve ikramiyelerle kredilendirilecektir. Ayrıca, matris ödül programımızın belirli düzeylerinde kazanmaya hak kazandığınızda, kalan aylık ödülleri de alacaksınız. 1-3 seviyelerinden kazanmak için şu anda aktif olan 1 App servis kullanıcısına doğrudan başvurmalısınız. Şu anda aktif olan doğrudan App servis tavsiyelerinin 4. ve 6. seviyeden kazanılması gerekmektedir ve 7. seviyenin üzerindeki kazançlar, halihazırda aktif durumda olan 5 doğrudan Aktif servis hizmeti kullanıcısını gerektirir. Komisyonlar, ödüller ve ikramiyelerin nasıl hesaplandığı hakkında daha fazla bilgi için fırsat videomuzu izleyin. \n\nTüm Ödüller ve bonus komisyonları, her takvim takviminin 15. gününde, kullanıcıların arka ofisleri çevrimiçi eBanking Hesabı\'na doğrudan uluslararası olarak ödenir. Daha fazla detay, fırsat programımıza ait pazarlama programı fırsat PDF\'mizde yer almaktadır.</string>
+
+    <!-- inside Faq five Contents -->
+
+    <string name="inside_faq_five_heading">Cevap</string>
+    <string name="inside_faq_five_back">FAQ</string>
+    <string name="answer5">Evet. Yapabilirsin. \n\nÖzel pazarlama ağımızın kullanıcı kimliğini, pazarlama programlarınızın kullanım şartlarına uygun olması koşuluyla, hem çevrimiçi hem de çevrimdışı güvenlik ürünlerini ve hizmetlerinizi tanıtmak için kullanabilirsiniz. \n\nAlmanlı el ilanları, promosyon ve kartvizitler veya postacılar, benzersiz PFN kodunuzun kullanabileceği çevrimdışı pazarlama kampanyaları için birçok fikirden bazılarıdır.</string>
+
+
+    <!-- Hd Stream Bottom Navigation Bar -->
+
+    <string name="hd_bottom_navigation_location">yer</string>
+    <string name="hd_bottom_navigation_quick">Hızlı bağlantı</string>
+    <string name="hd_bottom_navigation_channels">Kanallar</string>
+    <string name="hd_stream_main_heading">HD STREAM</string>
+
+    <!-- Hd Stream Header Heading and menus-->
+
+    <string name="hd_stream_header_heading">HD STREAM</string>
+    <string name="hd_stream_nav_one">Gravity</string>
+    <string name="hd_stream_nav_two">Ayarlar</string>
+    <string name="hd_stream_nav_three">Faq</string>
+
+    <!-- Internet Freedom Bottom Navigation Bar -->
+
+    <string name="internet_bottom_navigation_location">yer</string>
+    <string name="internet_bottom_navigation_quick">Hızlı bağlantı</string>
+    <string name="internet_bottom_navigation_purpose">Purpose</string>
+    <string name="internet_bottom_navigation_main_heading">INTERNET FREEDOM</string>
+
+    <!-- Internet Freedom Header Heading and menus -->
+
+    <string name="internet_freedom_header_heading">INTERNET FREEDOM</string>
+
+    <!-- Security Privacy Bottom Navigation -->
+
+    <string name="security_bottom_navigation_location">yer</string>
+    <string name="security_bottom_navigation_quick">Hızlı bağlantı</string>
+    <string name="security_bottom_navigation_main_heading">GÜVENLİK / GİZLİLİK</string>
+
+    <!-- Security Privacy Header Heading and menus -->
+
+    <string name="security_privacy_header_heading">GÜVENLİK / GİZLİLİK</string>
+    <string name="security_privacy_nav_one">Ozon</string>
+    <string name="security_privacy_nav_two">Gravity</string>
+    <string name="security_privacy_nav_three">Ayarlar</string>
+    <string name="security_privacy_nav_four">Faq</string>
+
+
+
+    <!-- File sharing -->
+
+    <string name="file_bottom_navigation_location">yer</string>
+    <string name="file_bottom_navigation_quick">Hızlı bağlantı</string>
+    <string name="file_bottom_navigation_main_heading">DOSYA PAYLAŞIMI</string>
+
+    <!-- File sharing Navigation Header Heading and menus -->
+
+    <string name="file_sharing_header_heading">DOSYA PAYLAŞIMI</string>
+    <string name="file_sharing_nav_one">P2P Koruması</string>
+    <string name="file_sharing_nav_two">Gravity</string>
+    <string name="file_sharing_nav_three">Ayarlar</string>
+    <string name="file_sharing_nav_four">Faq</string>
+
+    <!-- Hd Stream Inside Locations -->
+
+    <string name="hd_stream_inside_locations_heading">yer</string>
+    <string name="hd_stream_inside_locations_countries">Ülkeler</string>
+    <string name="hd_stream_inside_locations_cities">Şehirler</string>
+    <string name="hd_stream_inside_locations_search">Arama</string>
+    <string name="hd_stream_inside_locations_favourities">Favoriler</string>
+    <!--<string name="hd_stream_inside_locations_fav_desc">Favori Amaçlarınız burada görünecektir.</string>-->
+
+    <!-- Hd Stream Inside Channels -->
+
+    <string name="hd_stream_inside_channels_heading">Kanallar</string>
+    <string name="hd_stream_inside_channels_search">Arama</string>
+    <string name="hd_stream_inside_channels_favourities">Favoriler</string>
+    <string name="hd_stream_inside_channels_fav_desc">Favori Amaçlarınız burada görünecektir.</string>
+    <string name="hd_stream_inside_channels_channels">Kanallar</string>
+
+
+
+    <!-- Internet Freedom Inside purpose -->
+
+    <string name="internet_inside_purpose_heading">amaç</string>
+    <string name="internet_inside_purpose_search">Arama</string>
+    <string name="internet_inside_purpose_favourities">Favoriler</string>
+    <string name="internet_inside_purpose_fav_desc">Favori Amaçlarınız burada görünecektir.</string>
+    <string name="internet_inside_purpose_purposes">Amaçları</string>
+
+
+
+    <string name="this_functionality_works_automatically">Bu işlev otomatik olarak arka uçta çalışır</string>
+
+
+    <string name="stop_viruses_malware">Çevrimiçi dosya indirirken veya paylaşırken virüsleri, kötü amaçlı yazılımları vb. Durdurun</string>
+    <string name="update">Güncelleştirme</string>
+    <string name="first_name">İsim</string>
+    <string name="last_name">Soyadı</string>
+    <string name="dddress">Adres</string>
+    <string name="company">şirket</string>
+    <string name="choose_country">Ülke Seçiniz</string>
+    <string name="favourites">Favoriler</string>
+
+    <string name="connected_to">Artık PFN\'ye bağlısınız</string>
+
+
+    <string name="secure_wifi">Güvenli Wifi</string>
+    <string name="auto_connect">Otomatik bağlantı</string>
+    <string name="network_type">Ağ tipi</string>
+    <string name="internet_kill">İnternet Öldürme Anahtarı</string>
+    <string name="multi_port">Çok portlu</string>
+    <string name="multi_port_description">Çoklu Bağlantı Noktası, bağlanılacak açık bağlantı noktalarını tarayan otomatik bir bağlantı noktası seçme özelliğidir. Kapalı veya kısılmış portları kontrol eder ve ardından bağlantı için en iyi portu seçer.</string>
+    <string name="auto_port_description">Otomatik port seçimi, port engellemeyi atlamak ve sizi en iyi porta bağlamak için açık portları tarar. Liman aralığı (53,5500–30000)</string>
+    <string name="enter_port">Port Numarası Girin</string>
+    <string name="manual_port_selection">Manuel port seçimi istediğiniz portu girmenize olanak sağlar.</string>
+
+    <string name="kill_switch_desc">Etkinleştirildiğinde, Internet kill swtich PFN bağlantısı kesildiği anda tüm internet etkinliklerini kapatır. PFN bağlantısı tekrar kurulduğunda, internet aktiviteleri normal durumuna geri döner.</string>
+    <string name="reconnect_on_disconnect">PFN bağlantısı kesildiğinde, PFN otomatik olarak yeniden bağlanacaktır.</string>
+    <string name="reconnect_on_restart">Telefon yeniden başladığında, PFN otomatik olarak bağlanacaktır.</string>
+    <string name="connect_on_celluar">Hücresel ağlara otomatik olarak bağlanın.</string>
+    <string name="connect_on_non_secure_nets">Güvenli olmayan ağlara otomatik olarak bağlanın.</string>
+    <string name="when_connected_to_new">Yeni WiFi\'ye bağlandığınızda</string>
+    <string name="note">Uyarı</string>
+    <string name="automatically">Otomatik olarak</string>
+    <string name="auto_non_nat_networks_desc">PFN oturumunuz için size benzersiz bir genel ip atar.</string>
+    <string name="auto_nat_networks_desc">PFN oturumunuz için paylaşılan bir genel ip atar. (Uyarı: P2P Koruması, Port Yönlendirme, Nat Networks\'de desteklenmez. Nat Network Seçildiğinde bu özellikler devre dışı bırakılır).</string>
+    <string name="auto_non_nat_networks">Doğal Olmayan Ağlar</string>
+    <string name="auto_nat_networks">Nat Networks</string>
+    <string name="net_auto_desc">Kullanılabilir kapasiteye bağlı olarak sizi bu ağlardan birine bağlıyoruz.</string>
+    <string name="note_description">Yalnızca Gelişmiş kullanıcılar için. Lütfen ne yaptığınızı öğrenene kadar bu ayarları değiştirmeyin.</string>
+
+
+</resources>

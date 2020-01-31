@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_navigationscreen">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="@color/mod_appbar_color">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:layout_marginLeft="120dp"
+            android:text="@string/file_sharing_nav_one"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:textSize="8pt"
+            android:layout_marginTop="20dp"/>
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/back_button"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:id="@+id/pfn_p2p_back_image"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:textSize="8pt"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="30dp"
+            android:text="PFN"
+            android:id="@+id/pfn_p2p_back_text"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/private_family"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="60dp"
+            android:text="@string/the_private_family_network"/>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@color/mod_appbar_color">
+
+            <TextView
+                android:id="@+id/p2p_head"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:textSize="7.5pt"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:text="@string/file_sharing_nav_one"/>
+
+            <TextView
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:textSize="6pt"
+                android:layout_below="@+id/p2p_head"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="8dp"
+                android:text="@string/stop_viruses_malware"/>
+
+
+
+            <Switch
+                android:id="@+id/p2p_protection_switch"
+                android:textOn=""
+                android:textOff=""
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_alignParentRight="true"
+                android:thumbTextPadding="5dp"
+                android:switchMinWidth="70dp"
+                android:minHeight="70dp"
+                android:checked="true"
+                android:track="@drawable/switch_tracks"
+                android:thumb="@drawable/switch_thumbs"
+                android:scaleX="0.5"
+                android:scaleY="0.5" />
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,444 @@
+<resources>
+
+
+    <string name="logout">Logout</string>
+    <string name="logout_description">Are you sure you want to log out? You will no longer be connected to PFN services</string>
+
+    <string name="error_list">Error getting list</string>
+
+    <string name="app_name">VPNATOM</string>
+    <string name="military_grade">Military Grade Encryption for Total Protection</string>
+    <string name="military_discription">Achieve total Internet Freedom, security and privacy with
+        reinforced encryption that ensures your anonymity</string>
+    <string name="ozone_protection">Ozone Protection</string>
+    <string name="ozone_description">24/7 Protection delivered by impenetrable security</string>
+    <string name="dont_have_account">Don’t have a PFN account?</string>
+    <string name="click_here_to_learn_more">Click Here to Learn More</string>
+    <string name="security_app_pays">The Security solution that pays for itself</string>
+    <string name="the_private_family_network">The Private Family Network</string>
+    <string name="world_class_premium_online_security_solutions">World Class Premium Online Security Solutions</string>
+    <string name="incridible_opertunity">Incredible Opportunity</string>
+    <string name="gold_standard">The Gold Standard in Relationship Marketing</string>
+    <string name="private_family_network">Access the Private Family Network Today
+and Enjoy all the Extra Benefits.</string>
+    <string name="app_intro_skip">Skip</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="done">Done</string>
+    <string name="app_bar_configure">Configure</string>
+    <string name="app_bar_pfn">PFN</string>
+    <string name="gravity_discription">Where would we be without Gravity? All the threats out there can infiltrate your system and expose you to risk.</string>
+    <string name="back">Back</string>
+    <string name="enabled_gravity_discription">Gravity is protecting you to ensure your piece of mind. You are protected around the clock from viruses, nasty websites and malware.</string>
+    <string name="login">Login</string>
+    <string name="hd_stream">HD STREAM</string>
+    <string name="hd_stream_description">Enjoy unlimited Bandwidth and HD streaming from anywhere</string>
+    <string name="internet_freedom_description">Freely surf the internet without Geo Restrictions – Access Global content</string>
+    <string name="security_privacy_description">Secure your online privacy and anonymity</string>
+    <string name="internet_freedom">INTERNET FREEDOM</string>
+    <string name="security_privacy">SECURITY / PRIVACY</string>
+    <string name="file_sharing">FILE SHARING</string>
+    <string name="file_sharing_description">Share Files instantly, privately and legally on file sharing platforms</string>
+    <string name="dedicated_ip">DEDICATED IP</string>
+    <string name="dedicated_ip_descriptipon">Comming Soon</string>
+    <string name="mode_selection">Select the mode that best serves your purpose.
+By using the most appropriate mode, we are able to optimise your network performance.</string>
+    <string name="app_bar_forgot_password_text">Forgot Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="done_desc">Enter username &amp; password and Click “Done"</string>
+    <string name="app_bar_gravity">Gravity</string>
+    <string name="forgot_password_instructions">Enter your username and tap ‘Done’. We will send you an email with instructions on how to reset your password.</string>
+    <string name="title_activity_main_app">MainAppActivity</string>
+    <string name="select_mode_that_serves_you_best">Optimize your Network performance by selecting the Mode that best suits your specific purpose</string>
+    <string name="select_mode">Select Mode</string>
+    <string name="label_title"><font fgcolor="#ffff0000">The Private Family Network</font></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_location_countries"><font fgcolor="#ffff0000">Location</font></string>
+    <string name="title_activity_purpose">PurposeActivity</string>
+    <string name="title_activity_channel">ChannelActivity</string>
+    <string name="title_activity_internet_freedom">InternetFreedomActivity</string>
+    <string name="title_activity_security">SecurityActivity</string>
+    <string name="title_activity_location_security">LocationSecurityActivity</string>
+    <string name="title_activity_file_sharing">FileSharingActivity</string>
+    <string name="title_activity_file_share_quick_connect">FileShareQuickConnectActivity</string>
+    <string name="title_activity_file_share_mode_selection">FileShareModeSelectionActivity</string>
+    <string name="title_activity_internet_freedom_locations">InternetFreedomLocationsActivity
+    </string>
+    <string name="atom_secret_key">b12e0405d803ba771c46bb94be29a0a59f976b06</string>
+
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates the use of Atom SDK for
+            Privacy and Security.
+
+
+        ]]>
+    </string>
+    <string name="label_uuid">UUID</string>
+    <string name="label_connect_via">Connect with</string>
+    <string name="label_connect_with_psk">Connect with Pre-Shared Key</string>
+    <string name="label_connect_with_params">Connect with Params</string>
+    <string name="label_connect_with_dedicated_ip">Connect with Dedicated IP</string>
+    <string name="lbl_optimize_connection">Optimize Connection</string>
+    <string name="lbl_connect">Connect</string>
+    <string name="lbl_select_protocol">Select Protocol</string>
+    <string name="lbl_dedicated_ip">Dedicated IP</string>
+    <string name="lbl_skip_user_verification">Skip User Verification</string>
+    <string name="lbl_pre_shared_key">Pre-Shared Key</string>
+    <string name="empty_secret_key">Secret Key is required</string>
+    <string name="lbl_primary_protocol">Primary Protocol</string>
+    <string name="lbl_secondary_protocol">Secondary Protocol</string>
+    <string name="lbl_tertiary_protocol">Tertiary Protocol</string>
+    <string name="lbl_select_country">Select Country</string>
+
+    <string name="doiget">Do I Get My Own Unique Private Family \nNetwork Website URL?</string>
+    <string name="doyouprovide">Do You Provide any Marketing Materials or Tools?</string>
+    <string name="caniview">Can I View My Reward Commissions and User Referrals?</string>
+    <string name="howdoigetpaid">How Do I Get Paid My Commissions Rewards \nand Bonuses?</string>
+    <string name="caniusemyunique">Can I Use My Unique Private Family Network website for Offline Promotion?</string>
+
+    <!-- <string name="answer1">Yes, you get your very own unique private family network relationship marketing referral website,  that you can immediately use and share with all of your online promotions. Add it to your own website, outgoing emails, or even your Facebook and LinkedIn profiles.\n\nEach and every click that is generated from your unique private family network referral website, will be tracked by our private family network software marketing system.  You\'ll be able to view all of your website visitors and sales in your private family network service user back office area at any time.</string>
+    <string name="answer2">Yes. Once you purchase your security app and set it up, you\'ll instantly receive your own personalized website and get access to a variety of simple to copy and paste marketing tools that you can use immediately to help generate referral user app commissions.\n\nEach of those marketing tools will have your own unique relationship marketing link embedded in it so that the visitors you refer to your website will always be tracked by our global secure tracking system. You\'ll also have 24/7 access to a host of training manuals and a selection of live and video archived product and opportunity training webinars via your back office covering a wide range of topics. If you need help in an area, Just ask us and we\'ll cover it!</string>
+    <string name="answer3">Yes you can.\n\nYou will get complete access to all of your reward commissions and referral website visitor traffic in your private back office area.\n\nYou will also be able to view your performance on an hr/daily/weekly and monthly basis with full reporting tools available.</string>
+    <string name="answer4">Your digital account will be credited with direct referral rewards and bonuses once your referred users have successfully purchased, downloaded and activated their App. You will also receive residual ongoing monthly rewards once you have qualified to earn at specific levels of our matrix rewards program. You must have directly referred 1 currently active App service user to earn from levels 1-3. Three currently active direct App service referrals are required to earn from level 4 to 6 and earnings beyond level 7 requires a minimum of 5 currently active directly referred App service users.  Watch our opportunity video for more information on how the commissions, rewards and bonuses are calculated.\n\nAll Rewards and bonus commissions are paid out directly internationally on the 15th of each calender month into users back office online eBanking Account. Further details are set out in our marketing program opportunity PDF on our opportunity page.</string>
+    <string name="answer5">Yes you can.\n\nYou can use your Private Family Network website user id to promote your security products and services both online and offline, provided it complies with our marketing program terms of use.\n\nOffline flyers, promotional and business cards or mailers are some of the many ideas for offline marketing campaigns which your unique PFN code can be used for.</string> -->
+
+    <!-- P2p Contents -->
+
+    <string name="toolbar_name">P2P Protection</string>
+    <string name="toolbar_back_button">PFN</string>
+    <string name="p2p_protection">P2P Protection</string>
+    <string name="p2p_protection_description">Stop viruses, malware, etc, while\ndownloading or sharing files online</string>
+    <string name="content_filtering_heading">Content Filtering</string>
+    <string name="content_description">Filter unwanted web content</string>
+
+    <!-- Ozone Contents -->
+
+    <string name="ozone_antivirus">Antivirus</string>
+    <string name="ozone_toolbar_back_button">PFN</string>
+    <string name="ozone_toolbar_heading">Ozone</string>
+    <string name="ozone_antivirus_description">Remain protected against incoming threats</string>
+    <string name="ozone_content_filtering">Content Filtering</string>
+    <string name="ozone_content_filtering_description">Filter unwanted web content</string>
+    <string name="ozone_ids_ips">IDS/IPS</string>
+    <string name="ozone_ids_ips_description">Detection and protection against intruders</string>
+    <string name="ozone_url_filtering">URL FILTERING</string>
+    <string name="ozone_url_filtering_description">Control which websites are allowed to load</string>
+    <string name="ozone_app_filtering">APP FILTERING</string>
+    <string name="ozone_app_filtering_description">Control which apps are allowed to run</string>
+    <string name="ozone_url_filtering_config">Configure</string>
+    <string name="ozone_app_filtering_config">Configure</string>
+
+    <!-- Gravity Contents -->
+
+    <string name="gravity_toolbar_heading">Gravity</string>
+    <string name="gravity_toolbar_back_button">PFN</string>
+    <string name="gravity_toolbar_configure">Configure</string>
+    <string name="gravity_disabled_text">Disabled</string>
+    <string name="gravity_enabled_text">Enabled</string>
+    <string name="gravity_text_large">Gravity</string>
+    <string name="gravity_text_large_description">Where would we be without Gravity? All the threats out there can infiltrate your system and expose you to risk.</string>
+
+    <!-- Settings Contents -->
+
+    <string name="settings_toolbar_heading">Settings</string>
+    <string name="settings_toolbar_back_button">PFN</string>
+    <string name="settings_app_settings">App Settings</string>
+    <string name="settings_profile">Profile</string>
+    <string name="settings_protocol">Protocol</string>
+    <string name="settings_change_language">Change Language</string>
+    <string name="settings_advanced_settings">Advanced Settings</string>
+    <string name="settings_on_demand_vpn">Split Tunneling</string>
+    <string name="settings_more">More</string>
+    <string name="settings_support_center">Support Centre</string>
+    <string name="settings_about">About The Private Family Network</string>
+    <string name="settings_logout">LogOut</string>
+
+
+    <!-- settings Inside Protocol -->
+
+    <string name="inside_profile">User Name</string>
+    <string name="inside_profile_heading">Profile</string>
+    <string name="inside_profile_back">Settings</string>
+    <string name="inside_protocol_heading">Protocol</string>
+    <string name="inside_protocol_back">Settings</string>
+    <string name="inside_recomended">RECOMMENDED PROTOCOLS</string>
+    <string name="inside_automatic">Automatic</string>
+    <string name="inside_automatic_description">Let PFN select the most appropriate protocol for you</string>
+    <string name="inside_ipsec">IPSEC</string>
+    <string name="inside_ipsec_description">Select this for higher security.</string>
+    <string name="inside_ikev2">IKEv2</string>
+    <string name="inside_ikev2_description">Select this for reliable connection</string>
+    <string name="inside_manual_protocols">MANUAL PROTOCOLS</string>
+    <string name="inside_show_connect">Show Connect Guide.</string>
+    <string name="inside_show_connect_description">Shows a guide on connection screen.</string>
+    <string name="inside_l2tp">L2TP</string>
+    <string name="inside_l2tp_description">Less speed, more security.</string>
+    <string name="inside_unable_connect">Unable to Connect?</string>
+    <string name="inside_unable_conn_description">Troubleshooting Guide</string>
+
+    <!-- Protocol inside Unable to connect ? -->
+
+    <string name="inside_unable_connect_heading">Troubleshooting</string>
+    <string name="inside_unable_connect_back">Protocol</string>
+    <string name="inside_unable_connect_description">Follow this quick troubleshooting guide:</string>
+    <string name="protocol_bullet_one">1. Choose a Manual Protocol</string>
+    <string name="protocol_bullet_two">2. Go back to App home screen</string>
+    <string name="protocol_bullet_three">3. Select your location &amp; connect</string>
+    <string name="protocol_bullet_four">4. Install server profile with your PFN credentials\nand device security code</string>
+    <string name="protocol_bullet_five">5. Go to your Device Settings > PFN</string>
+    <string name="protocol_bullet_six">6. Toggle the PFN Configuration switch (if unsuccessful,\ntry different locations &amp; protocol</string>
+    <string name="share_text">Hi, If you’ve ever wanted to get in at the start of something Really Huge - Now is your chance - the launch of a perfectly timed innovation soon to enjoy explosive growth in a massive Global market. If you want your share - Click here for more,,,https://user.theprivatefamilynetwork.com/registration/</string>
+    <!-- Settings Change language -->
+
+    <string name="inside_change_lang_heading">Change Language</string>
+    <string name="inside_change_lang_back">Settings</string>
+    <string name="inside_change_lang_selected">Selected Language</string>
+    <string name="inside_change_lang_arabic">Arabic</string>
+    <string name="inside_change_lang_chinese">Chinese</string>
+    <string name="inside_change_lang_dutch">Dutch</string>
+    <string name="inside_change_lang_eng">English</string>
+    <string name="inside_change_lang_french">French</string>
+    <string name="inside_change_lang_german">German</string>
+    <string name="inside_change_lang_spanish">Spanish</string>
+    <string name="inside_change_lang_turkish">Turkish</string>
+
+    <!-- Settings On Demand Vpn -->
+
+    <string name="inside_on_demand_heading">Split Tunneling</string>
+    <string name="inside_on_demand_back">Settings</string>
+    <string name="inside_on_demand_setup">Setup Split Tunneling</string>
+    <string name="onDemand_working">Split Tunneling Working</string>
+    <string name="inside_on_demand_large_text">Split Tunneling</string>
+    <string name="this_functionality_works_automatically">This functionality works at backend automatically</string>
+    <string name="inside_on_demand_large_text_description">Split tunneling is the technique of splitting and routing only specific traffic over the PFN network, while letting other traffic directly access the Internet.</string>
+
+    <!-- Settings Support Centre -->
+
+    <string name="inside_support_heading">Support Ticket</string>
+    <string name="inside_support_back">Settings</string>
+    <string name="inside_support_submit_text">Submit a support ticket</string>
+    <string name="inside_support_description">Replies will be sent to your PFN account email address\nfrom our customer support staff.</string>
+    <string name="inside_support_hint">Please describe, in detail,\n the issue your are experiencing.</string>
+    <string name="inside_support_button">Submit</string>
+
+    <!-- Settings About -->
+
+    <string name="inside_about_heading">About</string>
+    <string name="inside_about_back">Settings</string>
+    <string name="inside_about_pfn_opportunity">The PFN Opportunity</string>
+    <string name="inside_about_pfn_back_office">The PFN Back Office</string>
+    <string name="inside_about_privacy_policy">Privacy Policy</string>
+    <string name="inside_about_terms">Terms of Service</string>
+
+    <!-- Faq Contents -->
+
+    <string name="inside_faq_heading">FAQ</string>
+    <string name="inside_faq_back">PFN</string>
+    <string name="inside_faq_one_text">Do I Get My Own Unique Private Family \nNetwork Website URL?</string>
+    <string name="inside_faq_two_text">Do You Provide any Marketing Materials or Tools?</string>
+    <string name="inside_faq_three_text">Can I View My Reward Commissions and User Referrals?</string>
+    <string name="inside_faq_four_text">How Do I Get Paid My Commissions Rewards \nand Bonuses?</string>
+    <string name="inside_faq_five_text">Can I Use My Unique Private Family Network website for Offline Promotion?</string>
+
+    <!-- inside Faq one Contents -->
+
+    <string name="inside_faq_one_heading">Answer</string>
+    <string name="inside_faq_one_back">FAQ</string>
+    <string name="answer1">Yes, you get your very own unique private family network relationship marketing referral website,  that you can immediately use and share with all of your online promotions. Add it to your own website, outgoing emails, or even your Facebook and LinkedIn profiles.\n\nEach and every click that is generated from your unique private family network referral website, will be tracked by our private family network software marketing system.  You\'ll be able to view all of your website visitors and sales in your private family network service user back office area at any time.</string>
+
+
+    <!-- inside Faq two Contents -->
+
+    <string name="inside_faq_two_heading">Answer</string>
+    <string name="inside_faq_two_back">FAQ</string>
+    <string name="answer2">Yes. Once you purchase your security app and set it up, you\'ll instantly receive your own personalized website and get access to a variety of simple to copy and paste marketing tools that you can use immediately to help generate referral user app commissions.\n\nEach of those marketing tools will have your own unique relationship marketing link embedded in it so that the visitors you refer to your website will always be tracked by our global secure tracking system. You\'ll also have 24/7 access to a host of training manuals and a selection of live and video archived product and opportunity training webinars via your back office covering a wide range of topics. If you need help in an area, Just ask us and we\'ll cover it!</string>
+    <!-- inside Faq three Contents -->
+
+    <string name="inside_faq_three_heading">Answer</string>
+    <string name="inside_faq_three_back">FAQ</string>
+    <string name="answer3">Yes you can.\n\nYou will get complete access to all of your reward commissions and referral website visitor traffic in your private back office area.\n\nYou will also be able to view your performance on an hr/daily/weekly and monthly basis with full reporting tools available.</string>
+
+    <!-- inside Faq four Contents -->
+
+    <string name="inside_faq_four_heading">Answer</string>
+    <string name="inside_faq_four_back">FAQ</string>
+    <string name="answer4">Your digital account will be credited with direct referral rewards and bonuses once your referred users have successfully purchased, downloaded and activated their App. You will also receive residual ongoing monthly rewards once you have qualified to earn at specific levels of our matrix rewards program. You must have directly referred 1 currently active App service user to earn from levels 1-3. Three currently active direct App service referrals are required to earn from level 4 to 6 and earnings beyond level 7 requires a minimum of 5 currently active directly referred App service users.  Watch our opportunity video for more information on how the commissions, rewards and bonuses are calculated.\n\nAll Rewards and bonus commissions are paid out directly internationally on the 15th of each calender month into users back office online eBanking Account. Further details are set out in our marketing program opportunity PDF on our opportunity page.</string>
+
+    <!-- inside Faq five Contents -->
+
+    <string name="inside_faq_five_heading">Answer</string>
+    <string name="inside_faq_five_back">FAQ</string>
+    <string name="answer5">Yes you can.\n\nYou can use your Private Family Network website user id to promote your security products and services both online and offline, provided it complies with our marketing program terms of use.\n\nOffline flyers, promotional and business cards or mailers are some of the many ideas for offline marketing campaigns which your unique PFN code can be used for.</string>
+
+
+    <!-- Hd Stream Bottom Navigation Bar -->
+
+    <string name="hd_bottom_navigation_location">Change Location</string>
+    <string name="hd_bottom_navigation_quick">Quick Connect</string>
+    <string name="hd_bottom_navigation_channels">Channels</string>
+    <string name="hd_stream_main_heading">HD STREAM</string>
+
+    <!-- Hd Stream Header Heading and menus-->
+
+    <string name="hd_stream_header_heading">HD STREAM</string>
+    <string name="hd_stream_nav_one">Gravity</string>
+    <string name="hd_stream_nav_two">Settings</string>
+    <string name="hd_stream_nav_three">Faq</string>
+
+    <!-- Internet Freedom Bottom Navigation Bar -->
+
+    <string name="internet_bottom_navigation_location">Change Location</string>
+    <string name="internet_bottom_navigation_quick">Quick Connect</string>
+    <string name="internet_bottom_navigation_purpose">Purpose</string>
+    <string name="internet_bottom_navigation_main_heading">INTERNET FREEDOM</string>
+
+    <!-- Internet Freedom Header Heading and menus -->
+
+    <string name="internet_freedom_header_heading">INTERNET FREEDOM</string>
+
+    <!-- Security Privacy Bottom Navigation -->
+
+    <string name="security_bottom_navigation_location">Change Location</string>
+    <string name="security_bottom_navigation_quick">Quick Connect</string>
+    <string name="security_bottom_navigation_main_heading">SECURITY / PRIVACY</string>
+
+    <!-- Security Privacy Header Heading and menus -->
+
+    <string name="security_privacy_header_heading">SECURITY / PRIVACY</string>
+    <string name="security_privacy_nav_one">Ozone</string>
+    <string name="security_privacy_nav_two">Gravity</string>
+    <string name="security_privacy_nav_three">Settings</string>
+    <string name="security_privacy_nav_four">Faq</string>
+
+
+    <!-- File sharing -->
+
+    <string name="file_bottom_navigation_location">Change Location</string>
+    <string name="file_bottom_navigation_quick">Quick Connect</string>
+    <string name="file_bottom_navigation_main_heading">FILE SHARING</string>
+
+    <!-- File sharing Navigation Header Heading and menus -->
+
+    <string name="file_sharing_header_heading">FILE SHARING</string>
+    <string name="file_sharing_nav_one">P2P Protection</string>
+    <string name="file_sharing_nav_two">Gravity</string>
+    <string name="file_sharing_nav_three">Settings</string>
+    <string name="file_sharing_nav_four">Faq</string>
+
+    <!-- Hd Stream Inside Locations -->
+
+    <string name="hd_stream_inside_locations_heading">Change Location</string>
+    <string name="hd_stream_inside_locations_countries">Countries</string>
+    <string name="hd_stream_inside_locations_cities">Cities</string>
+    <string name="hd_stream_inside_locations_search">Search</string>
+    <string name="hd_stream_inside_locations_favourities">Favourities</string>
+    <string name="click_to_add_1">Click the    </string>
+    <string name="click_to_add_2">icon to add your favourite location here</string>
+    <string name="support_desc">Please describe, in detail, the issue you are experiencing.</string>
+    <string name="email">Email</string>
+
+    <!-- Hd Stream Inside Channels -->
+
+    <string name="hd_stream_inside_channels_heading">Channels</string>
+    <string name="hd_stream_inside_channels_search">Search</string>
+    <string name="hd_stream_inside_channels_favourities">Favourities</string>
+    <string name="hd_stream_inside_channels_fav_desc">Your Favourite Channels will appear here.</string>
+    <string name="hd_stream_inside_channels_channels">Channels</string>
+
+
+    <!-- Internet Freedom Inside purpose -->
+
+    <string name="internet_inside_purpose_heading">Purpose</string>
+    <string name="internet_inside_purpose_search">Search</string>
+    <string name="internet_inside_purpose_favourities">Favourities</string>
+    <string name="internet_inside_purpose_fav_desc">Your Favourite Purposes will appear here.</string>
+    <string name="internet_inside_purpose_purposes">Purposes</string>
+    <string name="title_activity_location_cities">LocationCitiesActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="stop_viruses_malware">Stop viruses, malware, etc, while downloading or sharing files online</string>
+    <string name="update">Update</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dddress">Address</string>
+    <string name="company">Company</string>
+    <string name="choose_country">Choose Country</string>
+    <string name="favourites">Favourites</string>
+
+
+    <string name="online_security">Online Security App</string>
+    <string name="from">from</string>
+    <string name="share">Share and earn</string>
+
+    <string name="total_online_security">Total online Privacy &amp; Security for Your Family</string>
+    <string name="total_online_security2">Security, Privacy and internet freedom for all the family</string>
+
+
+    <string name="share_app">Share your PFN link with friends and Family to earn ongoing residual rewards</string>
+
+
+    <string name="logged_in">Logged In Successfully</string>
+
+
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="username">Username</string>
+
+    <string name="evaluate">Evaluate</string>
+    <string name="free_evaluation">Free Evaluation Download</string>
+    <string name="click_here_to_visit">Click Here to Visit</string>
+    <string name="app_link">www.OnlineSecurityApp.com</string>
+    <string name="intro0_step1"><b>Step 1 - </b> Visit The Private Family Network online website and select Register Now.</string>
+    <string name="intro0_step2"><b>Step 2 - </b> Fill in the ‘purchase now’ form and make payment. All international payment options are available.</string>
+    <string name="intro0_step3"><b>Step 3 - </b> Check your inbox for a welcome email which will contain your new app username and password.</string>
+    <string name="intro0_step4"><b>Step 4 - </b> Enter the app username and password into your Private Family Network app and click connect.</string>
+    <string name="intro0_to_activate">To activate your new Security App simply follow the steps below.</string>
+    <string name="intro0_please_note">Please note: This is not a live working app until registered on The Private Family Network Security Platform.
+This free download allows you to ensure your device is fully compatible prior to purchasing. </string>
+
+
+    <string name="secure_wifi">Secure Wifi</string>
+    <string name="auto_connect">Auto Connect</string>
+    <string name="network_type">Network Type</string>
+    <string name="internet_kill">Internet Kill Switch</string>
+    <string name="multi_port">Multi Port</string>
+    <string name="multi_port_description">Multi Port is an automatic port selection feature that scans for open ports to connect to. Checks for closed or throttled ports and then selects the best port for connectivity.</string>
+    <string name="auto_port_description">Automatic port selection scans for open ports to bypass port blocking and connect you to the best port. Port range(53,5500–30000)</string>
+    <string name="enter_port">Enter Port Number</string>
+    <string name="manual_port_selection">Manual port selection allows you to enter your desired port.</string>
+    <string name="connected_to">You are now connected to The PFN</string>
+    <string name="reconnect_on_disconnect_head">Reconnect on Disconnect</string>
+    <string name="connect_on_phone_restart">Connect on Phone Restart</string>
+
+    <string name="kill_switch_desc">Once enabled, The internet kill switch will shut down your internet activities as soon as your PFN connection is dropped. When your PFN connection is re-established, Your internet activities well go back to normal</string>
+    <string name="reconnect_on_disconnect">When the PFN connection is dropped, PFN will be reconnected automatically.</string>
+    <string name="reconnect_on_restart">When the phone restarts, PFN will be connected automatically.</string>
+    <string name="connect_on_celluar">Automatically connect on celluar networks.</string>
+    <string name="connect_on_non_secure_nets">Automatically connect on non secure networks.</string>
+    <string name="connect_on_non_secure">Connect on Non Secure Networks</string>
+    <string name="when_connected_to_new">When connected to new WiFi</string>
+    <string name="note">Warning</string>
+    <string name="connect_on_cellular">Connect on Cellular</string>
+    <string name="automatically">Automatically</string>
+    <string name="auto_non_nat_networks_desc">Assigns you a unique public ip for your PFN session.</string>
+    <string name="auto_nat_networks_desc">Assigns you a shared public ip for your PFN session. (Warning: P2P Protection, Port Forwarding are not supported on Nat Networks. these features will be disabled when Nat Network is Selected).</string>
+    <string name="auto_non_nat_networks">Non-Nat Networks</string>
+    <string name="auto_nat_networks">Nat Networks</string>
+    <string name="net_auto_desc">We connect you to either of these networks based on available capacity.</string>
+    <string name="note_description">For Advance users only. Please don\'t change these settings unless you know what you are doing.</string>
+
+
+    <string name="click_to_add_channel">icon to add your favourite channels here</string>
+
+</resources>

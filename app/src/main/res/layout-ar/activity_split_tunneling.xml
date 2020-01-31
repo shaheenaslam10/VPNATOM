@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/loginformscreen">
+
+    <ProgressBar
+        android:id="@+id/progress_circular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:theme="@style/progressBarBlue"
+        android:layout_centerInParent="true"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="@color/mod_appbar_color">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:text="@string/inside_on_demand_heading"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:textSize="8pt"
+                android:layout_marginTop="20dp"/>
+
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:background="@drawable/forwardicon"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="25dp"
+                android:id="@+id/pfn_settings_back_image"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:textSize="8pt"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="30dp"
+                android:text="@string/inside_on_demand_back"
+                android:id="@+id/pfn_settings_back"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="60dp"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:text="@string/the_private_family_network"
+                android:textColor="@color/private_family" />
+        </RelativeLayout>
+
+        <ScrollView android:layout_height="match_parent"
+            android:id="@+id/scrollView1"
+            android:layout_width="fill_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/mod_appbar_color"
+                    android:id="@+id/profile">
+
+                    <TextView
+                        android:id="@+id/switch_status"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:textSize="8pt"
+                        android:gravity="center"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginLeft="15dp"
+                        android:textColor="@android:color/white"
+                        android:text="@string/inside_on_demand_setup"
+                        android:fontFamily="@font/cabin_bold_ttf"/>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_centerInParent="true"
+                        android:gravity="left">
+
+                        <Switch
+                            android:id="@+id/onDemandSwitch"
+                            android:textOn=""
+                            android:textOff=""
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:scaleY=".5"
+                            android:scaleX=".5"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:checked="false"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="20dp"
+                            android:track="@drawable/switch_tracks"
+                            android:thumb="@drawable/switch_thumbs"/>
+
+                    </LinearLayout>
+
+
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:id="@+id/no_list_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/this_functionality_works_automatically"
+                        android:textSize="13dp"
+                        android:textColor="@android:color/white"
+                        android:fontFamily="@font/cabin_bolditalic_ttf"
+                        android:gravity="center"
+                        android:layout_marginTop="10dp"/>
+                    <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/ondemandvpnround"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inside_on_demand_large_text"
+                        android:textSize="10pt"
+                        android:textColor="@android:color/white"
+                        android:gravity="center"
+                        android:fontFamily="@font/cabin_bold_ttf"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inside_on_demand_large_text_description"
+                        android:textColor="@android:color/white"
+                        android:fontFamily="@font/cabin_bold_ttf"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="20dp"
+                        android:gravity="center"
+                        android:textSize="6.5pt"/>
+
+                    <!--
+
+                    Split tunneling is the technique of splitting and routing only specific traffic over the VPN network, while letting other traffic directly access the Internet. Usually, what is routed over the VPN will be the activities that need to be kept private and confidential, while conventional and unimportant traffic like video streaming will go via the local internet connection.
+
+    -->
+
+                    <!--</RelativeLayout>-->
+
+
+                </LinearLayout>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clipToPadding="false"
+                    android:paddingTop="10dp"
+                    android:scrollbars="vertical" />
+
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+
+
+
+</RelativeLayout>

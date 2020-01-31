@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.next.sheharyar.MainAppActivity"
+    android:orientation="vertical"
+    android:background="@drawable/loginformscreen">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/semi_transparent"
+            app:title="PFN"
+            app:popupTheme="@style/MainTheme" >
+
+
+        </androidx.appcompat.widget.Toolbar>
+
+
+    <!--</android.support.design.widget.AppBarLayout>-->
+
+   <!-- <include layout="@layout/content_main_app" />-->
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="com.next.sheharyar.MainAppActivity"
+        android:layout_marginBottom="?attr/actionBarSize">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+
+
+            <LinearLayout
+                android:id="@+id/mode_click"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="100dp"
+                android:padding="10dp"
+                android:layout_centerHorizontal="true"
+                android:gravity="center">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/hd_stream_main_heading"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="@font/cabin_bold_ttf"
+                    android:textSize="8pt"
+                    android:gravity="center"
+                    android:layout_centerInParent="true"
+                    android:id="@+id/mod_selection_text"/>
+
+                <ImageView
+                    android:id="@+id/mod_selection_image"
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/mod_selection_text"
+                    android:background="@drawable/forwardicon"/>
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.skyfishjy.library.RippleBackground
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/content"
+                app:rb_color="#66b50a"
+                app:rb_radius="32dp"
+                app:rb_rippleAmount="6"
+                app:rb_duration="3000"
+                app:rb_scale="6"
+                android:visibility="visible">
+
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_centerInParent="true"
+                    android:id="@+id/center_button"
+                    android:src="@drawable/hdstream_quickconnect2"/>
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="10dp"
+                    android:layout_below="@+id/center_button">
+
+
+                    <TextView
+                        android:id="@+id/status"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:textSize="17dp"
+                        android:gravity="center"/>
+
+
+                    <TextView
+                        android:id="@+id/s_country"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:layout_marginTop="5dp"
+                        android:textSize="17dp"
+                        android:textStyle="bold"
+                        android:layout_below="@+id/status"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:id="@+id/channel_open_channel"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:layout_marginTop="5dp"
+                        android:textSize="18dp"
+                        android:textStyle="bold"
+                        android:layout_below="@+id/status"
+                        android:gravity="center"/>
+
+
+                </LinearLayout>
+
+
+                <EditText
+                    android:id="@+id/dedicated_host"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:ems="10"
+                    android:hint="Enter Dedicated Host"
+                    android:inputType="text"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_below="@+id/s_country"
+                    android:visibility="gone"
+                    android:backgroundTint="@android:color/white"/>
+
+            </com.skyfishjy.library.RippleBackground>
+
+
+        </RelativeLayout>
+
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/semi_transparent"
+        android:layout_alignParentBottom="true"
+        android:popupTheme="@style/MainTheme"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/location_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="40dp"
+                android:src="@drawable/locations"
+                android:id="@+id/app_bottom_locations"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:text="@string/hd_bottom_navigation_location"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:textSize="5pt"
+                android:id="@+id/app_bottom_locations_text"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/connect_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/navigation_bottom_quickconnect"
+                android:id="@+id/app_bottom_quickConnect"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/holo_green_light"
+                android:text="@string/hd_bottom_navigation_quick"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:textSize="5pt"
+                android:id="@+id/app_bottom_quickConnect_Text"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/channel_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:padding="10dp"
+                android:src="@drawable/tv"
+                android:tint="@color/white"
+                android:id="@+id/channel_icon"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:text="@string/hd_bottom_navigation_channels"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:textSize="5pt"
+                android:id="@+id/channel_Text"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

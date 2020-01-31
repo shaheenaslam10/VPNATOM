@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/loginformscreen">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="@color/mod_appbar_color">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:text="@string/auto_connect"
+            android:textColor="@android:color/white"
+            android:textSize="8pt" />
+
+        <ImageView
+            android:id="@+id/pfn_settings_back_image"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="10dp"
+            android:rotation="180"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/back_button" />
+
+        <TextView
+            android:id="@+id/pfn_settings_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:text="@string/inside_protocol_back"
+            android:textColor="@android:color/white"
+            android:textSize="8pt" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="60dp"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:text="@string/the_private_family_network"
+            android:textColor="@color/private_family" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="30dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/reconnect_on_disconnect_head"
+                    android:textColor="@color/white"
+                    android:textSize="17dp"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/cabin_bold_ttf"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/reconnect_on_disconnect"
+                    android:textColor="@color/white"
+                    android:textSize="14dp"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/cabin_medium_ttf"
+                    />
+            </LinearLayout>
+
+
+            <Switch
+                android:id="@+id/connect_disconnect"
+                android:textOn="ON"
+                android:textOff="OFF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleY=".5"
+                android:scaleX=".5"
+                android:gravity="center"
+                android:layout_weight="2"
+                android:layout_gravity="center"
+                android:checked="false"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"
+                android:track="@drawable/switch_tracks"
+                android:thumb="@drawable/switch_thumbs"/>
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:background="@color/white"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/connect_on_phone_restart"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:textSize="17dp"
+                    android:fontFamily="@font/cabin_bold_ttf"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/reconnect_on_restart"
+                    android:textColor="@color/white"
+                    android:textSize="14dp"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/cabin_medium_ttf"
+                    />
+            </LinearLayout>
+
+
+            <Switch
+                android:id="@+id/connect_restart"
+                android:textOn="ON"
+                android:textOff="OFF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleY=".5"
+                android:scaleX=".5"
+                android:gravity="center"
+                android:layout_weight="2"
+                android:layout_gravity="center"
+                android:checked="false"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"
+                android:track="@drawable/switch_tracks"
+                android:thumb="@drawable/switch_thumbs"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

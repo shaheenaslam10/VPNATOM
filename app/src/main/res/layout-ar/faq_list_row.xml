@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="10"
+    android:minHeight="50dp"
+    android:id="@+id/container"
+    android:layout_margin="7dp"
+    android:background="@color/settings_relative_layout_background">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="8">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/forwardicon"
+            android:layout_centerInParent="true"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/faq_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:fontFamily="@font/cabin_bold_ttf"
+        android:textSize="6pt"
+        android:layout_weight="2"
+        android:textColor="@android:color/white"
+        android:text="Tilte of faq question ?"
+
+        />
+
+
+</LinearLayout>

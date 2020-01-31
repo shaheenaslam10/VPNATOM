@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:background="@drawable/loginformscreen"
+tools:context="com.next.sheharyar.MultiPortActivity">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:background="@color/mod_appbar_color">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/cabin_bold_ttf"
+        android:text="@string/multi_port"
+        android:textColor="@android:color/white"
+        android:textSize="8pt" />
+
+    <ImageView
+        android:id="@+id/pfn_settings_back_image"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/back_button" />
+
+    <TextView
+        android:id="@+id/pfn_settings_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/cabin_bold_ttf"
+        android:text="@string/inside_protocol_back"
+        android:textColor="@android:color/white"
+        android:textSize="8pt" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:fontFamily="@font/cabin_bold_ttf"
+        android:text="@string/the_private_family_network"
+        android:textColor="@color/private_family" />
+</RelativeLayout>
+
+<ScrollView
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="100dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:background="@color/mod_appbar_color"
+            android:gravity="right">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="On"
+                android:layout_weight="1"
+                android:textColor="@color/white"
+                android:textSize="20dp"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:gravity="center"
+
+                />
+
+            <Switch
+                android:id="@+id/onDemandSwitch"
+                android:textOn="ON"
+                android:textOff="OFF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleY=".5"
+                android:scaleX=".5"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:checked="false"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"
+                android:track="@drawable/switch_tracks"
+                android:thumb="@drawable/switch_thumbs"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/off_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="80dp"
+                android:background="@drawable/ondemandvpnround"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/multi_port"
+                android:textSize="10pt"
+                android:textColor="@android:color/white"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:gravity="center"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/multi_port_description"
+                android:textColor="@android:color/white"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:gravity="center"
+                android:textSize="6.5pt"/>
+
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/on_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Automatic Port"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:layout_margin="10dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Select Port Automatically "
+                    android:textColor="@color/white"
+                    android:textSize="17dp"
+                    android:fontFamily="@font/cabin_medium_ttf"
+                    android:layout_margin="10dp"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="20dp"
+                    android:gravity="right">
+
+                    <CheckBox
+                        android:id="@+id/checkBox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:buttonTint="@color/white"
+                        android:checked="false"
+                        android:text="" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/auto_port_description"
+                android:textColor="@color/white"
+                android:textSize="16dp"
+                android:fontFamily="@font/cabin_medium_ttf"
+                android:layout_margin="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Manual"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"/>
+
+            <LinearLayout
+                android:id="@+id/enter_port_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/enter_port"
+                    android:textColor="@color/white"
+                    android:textSize="16dp"
+                    android:fontFamily="@font/cabin_medium_ttf"
+
+                    android:layout_marginLeft="10dp"/>
+
+                <TextView
+                    android:id="@+id/port"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="5600"
+                    android:textColor="@color/white"
+                    android:textSize="16dp"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="@font/cabin_medium_ttf"
+                    android:layout_marginLeft="10dp"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/manual_port_selection_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/manual_port_selection"
+                android:textColor="@color/white"
+                android:textSize="16dp"
+                android:fontFamily="@font/cabin_medium_ttf"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="30dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

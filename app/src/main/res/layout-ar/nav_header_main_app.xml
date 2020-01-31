@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="@dimen/nav_header_height"
+    android:layout_width="match_parent"
+    android:background="@color/hear_background"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+    
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginLeft="1dp"
+        android:paddingBottom="10dp"
+        app:srcCompat="@drawable/navigationheaderlogo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:text="@string/hd_stream_header_heading"
+            android:fontFamily="@font/cabin_bold_ttf"
+            android:layout_marginTop="50dp"
+            android:layout_toLeftOf="@+id/imageView"
+            android:textSize="7pt"
+            android:id="@+id/hd_stream_header"/>
+
+    <ImageView
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:background="@drawable/forwardicon"
+        android:layout_toLeftOf="@id/hd_stream_header"
+        android:layout_marginTop="50dp"
+        android:rotation="180"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/nav_header_forward_icon"
+        android:clickable="true"/>
+
+</RelativeLayout>

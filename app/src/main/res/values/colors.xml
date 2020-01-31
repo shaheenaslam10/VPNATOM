@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Grey">#dddddd</color>
+    <color name="disable_button">#a6a6a6</color>
+    <color name="track_color">#66b50a</color>
+    <color name="White">#ffffff</color>
+    <color name="Learn_More">#0079ff</color>
+    <color name="rect_border">#007bfd</color>
+    <color name="hear_background">#2b4678</color>
+    <color name="hear_background_dark">#99131f37</color>
+    <color name="first_intro_slider_color">#a2afc5</color>
+    <color name="text_shadow_white">#fff</color>
+    <color name="mod_appbar_color">#ab131f36</color>
+    <color name="settings_relative_layout_background">#496290</color>
+    <color name="settings_relative_layout_transparent_background">#91496290</color>
+    <color name="tranparent_header_bottom_text">#722b4678</color>
+    <color name="navigation_appbar_title_color">#5f6776</color>
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent">#c3131f36</color>
+    <color name="private_family">#ffffff</color>
+    <!-- dots inactive colors -->
+    <color name="inactive_dot_1">#858585</color>
+    <color name="inactive_dot_2">#858585</color>
+    <color name="inactive_dot_3">#858585</color>
+    <color name="inactive_dot_4">#858585</color>
+    <color name="inactive_dot_5">#858585</color>
+
+    <!-- dots active colors -->
+    <color name="active_dot_1">#3F51B5</color>
+    <color name="active_dot_2">#3F51B5</color>
+    <color name="active_dot_3">#3F51B5</color>
+    <color name="active_dot_4">#3F51B5</color>
+    <color name="active_dot_5">#3F51B5</color>
+
+    <array name="array_dot_active">
+        <item>@color/active_dot_1</item>
+        <item>@color/active_dot_2</item>
+        <item>@color/active_dot_3</item>
+        <item>@color/active_dot_4</item>
+        <item>@color/active_dot_5</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/inactive_dot_1</item>
+        <item>@color/inactive_dot_2</item>
+        <item>@color/inactive_dot_3</item>
+        <item>@color/inactive_dot_4</item>
+        <item>@color/inactive_dot_5</item>
+    </array>
+</resources>

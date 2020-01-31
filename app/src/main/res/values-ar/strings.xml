@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="logout">الخروج</string>
+    <string name="logout_description">هل أنت متأكد أنك تريد تسجيل الخروج؟ لن تكون متصلاً بخدمات PFN</string>
+
+    <string name="error_list">خطأ في الحصول على قائمة</string>
+
+    <string name="app_name">VPNATOM</string>
+    <string name="military_grade">تشفير الرتب العسكرية للحماية الكاملة</string>
+    <string name="military_discription">حقق أقصى درجات الحرية والأمان والخصوصية على الإنترنت من خلال التشفير المعزز الذي يضمن عدم الكشف عن هويتك</string>
+    <string name="ozone_protection">حماية الأوزون</string>
+    <string name="ozone_description">حماية 24/7 يتم توفيرها بواسطة أمان لا يمكن اختراقه</string>
+    <string name="dont_have_account">ليس لديك حساب PFN؟</string>
+    <string name="click_here_to_learn_more">انقر هنا لمعرفة المزيد</string>
+    <string name="security_app_pays">الحل الأمني ​​الذي يدفع لنفسه</string>
+    <string name="the_private_family_network">شبكة العائلة الخاصة</string>
+    <string name="world_class_premium_online_security_solutions">حلول الأمان عبر الإنترنت من الدرجة العالمية</string>
+    <string name="incridible_opertunity">فرصة لا تصدق</string>
+    <string name="gold_standard">المعيار الذهبي في تسويق العلاقات</string>
+    <string name="private_family_network">الوصول إلى شبكة الأسرة الخاصة اليوم
+واستمتع بجميع المزايا الإضافية</string>
+    <string name="share_text">    مرحبًا ، إذا كنت ترغب في الدخول في بداية شيء ضخم حقًا - الآن فرصتك - إطلاق ابتكار مناسب تمامًا قريبًا للاستمتاع بنمو هائل في سوق عالمي ضخم. إذا كنت تريد مشاركتك - انقر هنا للحصول على المزيد ،، https: //user.theprivatefamilynetwork.com/registration/</string>
+    <string name="email">البريد الإلكتروني</string>
+
+    <string name="done_desc">أدخل اسم المستخدم وكلمة المرور وانقر على "تم"</string>
+    <string name="support_desc">يرجى وصف ، بالتفصيل ، المشكلة التي تواجهها.</string>
+
+    <string name="click_to_add_1">انقر على    </string>
+    <string name="click_to_add_2">  أيقونة لإضافة موقعك المفضل هنا</string>
+    <string name="app_intro_skip">تخطى</string>
+    <string name="next">التالى</string>
+    <string name="skip">تخطى</string>
+    <string name="start">فهمتك</string>
+    <string name="done">فعله</string>
+    <string name="app_bar_configure">تهيئة</string>
+    <string name="app_bar_pfn">PFN</string>
+    <string name="gravity_discription">أين سنكون بدون جاذبية؟ يمكن لجميع التهديدات من هناك اختراق نظام الخاص بك وفضح لك المخاطر.</string>
+    <string name="back">الى الخلف</string>
+    <string name="enabled_gravity_discription">الجاذبية تحميك لضمان قدرتك على التفكير. أنت محمي على مدار الساعة من الفيروسات والمواقع السيئة والبرامج الضارة.</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="hd_stream">HD STREAM</string>
+    <string name="hd_stream_description">استمتع بعرض نطاق ترددي غير محدود أثناء البث من أي مكان في العالم</string>
+    <string name="internet_freedom_description">تصفح الإنترنت دون قيود جغرافية وتمتع بالمحتوى من جميع أركان الأرض</string>
+    <string name="security_privacy_description">يمكنك الحصول على حرية الإنترنت والخصوصية الكاملة من خلال التشفير المعزز الذي يضمن عدم الكشف عن هويتك</string>
+    <string name="internet_freedom">حرية الإنترنت</string>
+    <string name="security_privacy">الأمانة و أمبير؛ خصوصية</string>
+    <string name="file_sharing">مشاركة الملفات</string>
+    <string name="file_sharing_description">شارك ملفاتك على الفور وبشكل خاص على العديد من منصات مشاركة الملفات عالية السرعة</string>
+    <string name="dedicated_ip">IP مفهومة</string>
+    <string name="dedicated_ip_descriptipon">قريبا</string>
+    <string name="mode_selection">حدد الوضع الذي يخدم غرضك.
+باستخدام الوضع الأنسب ، نحن قادرون على تحسين أداء الشبكة الخاص بك.</string>
+    <string name="app_bar_forgot_password_text">هل نسيت كلمة المرور</string>
+    <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="app_bar_gravity">Gravity (الجاذبية)</string>
+    <string name="forgot_password_instructions">أدخل اسم المستخدم الخاص بك واضغط على "انتهى". سنرسل لك رسالة بريد إلكتروني تحتوي على إرشادات حول كيفية إعادة تعيين كلمة المرور الخاصة بك.</string>
+    <string name="title_activity_main_app">MainAppActivity</string>
+    <string name="select_mode_that_serves_you_best">حسّن أداء شبكتك من خلال تحديد الوضع الذي يناسب غرضك المحدد</string>
+    <string name="select_mode">حدد الوضع</string>
+    <string name="label_title"><font fgcolor="#ffff0000">The Private Family Network</font></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">الإعدادات</string>
+    <string name="title_activity_location_countries"><font fgcolor="#ffff0000">موقعك</font></string>
+    <string name="title_activity_purpose">نشاط الغرض</string>
+    <string name="title_activity_channel">ChannelActivity</string>
+    <string name="title_activity_internet_freedom">InternetFreedomActivity</string>
+    <string name="title_activity_security">SecurityActivity</string>
+    <string name="title_activity_location_security">LocationSecurityActivity</string>
+    <string name="title_activity_file_sharing">FileSharingActivity</string>
+    <string name="title_activity_file_share_quick_connect">FileShareQuickConnectActivity</string>
+    <string name="title_activity_file_share_mode_selection">FileShareModeSelectionActivity</string>
+    <string name="title_activity_internet_freedom_locations">InternetFreedomLocationsActivity
+    </string>
+    <string name="atom_secret_key">b12e0405d803ba771c46bb94be29a0a59f976b06</string>
+
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates the use of Atom SDK for
+            Privacy and Security.
+
+
+        ]]>
+    </string>
+    <string name="label_uuid">UUID</string>
+    <string name="label_connect_via">Connect with</string>
+    <string name="label_connect_with_psk">Connect with Pre-Shared Key</string>
+    <string name="label_connect_with_params">Connect with Params</string>
+    <string name="label_connect_with_dedicated_ip">Connect with Dedicated IP</string>
+    <string name="lbl_optimize_connection">Optimize Connection</string>
+    <string name="lbl_connect">Connect</string>
+    <string name="lbl_select_protocol">Select Protocol</string>
+    <string name="lbl_dedicated_ip">Dedicated IP</string>
+    <string name="lbl_skip_user_verification">Skip User Verification</string>
+    <string name="lbl_pre_shared_key">Pre-Shared Key</string>
+    <string name="empty_secret_key">Secret Key is required</string>
+    <string name="lbl_primary_protocol">Primary Protocol</string>
+    <string name="lbl_secondary_protocol">Secondary Protocol</string>
+    <string name="lbl_tertiary_protocol">Tertiary Protocol</string>
+    <string name="lbl_select_country">Select Country</string>
+
+    <string name="doiget">هل احصل على عائلتي الخاصة الفريدة\nعنوان موقع الشبكة؟</string>
+    <string name="doyouprovide">هل تقدم أي مواد تسويقية أو أدوات؟</string>
+    <string name="caniview">هل تقدم أي مواد تسويقية أو أدوات؟</string>
+    <string name="howdoigetpaid">كيف يمكنني الحصول على مكافآت لجان المكافآت \n والعلاوات؟</string>
+    <string name="caniusemyunique">هل يمكنني استخدام موقع شبكة عائلتي الخاصة الفريدة للترويج غير المتصل؟</string>
+
+    <!-- <string name="answer1">Yes, you get your very own unique private family network relationship marketing referral website,  that you can immediately use and share with all of your online promotions. Add it to your own website, outgoing emails, or even your Facebook and LinkedIn profiles.\n\nEach and every click that is generated from your unique private family network referral website, will be tracked by our private family network software marketing system.  You\'ll be able to view all of your website visitors and sales in your private family network service user back office area at any time.</string>
+     <string name="answer2">Yes. Once you purchase your security app and set it up, you\'ll instantly receive your own personalized website and get access to a variety of simple to copy and paste marketing tools that you can use immediately to help generate referral user app commissions.\n\nEach of those marketing tools will have your own unique relationship marketing link embedded in it so that the visitors you refer to your website will always be tracked by our global secure tracking system. You\'ll also have 24/7 access to a host of training manuals and a selection of live and video archived product and opportunity training webinars via your back office covering a wide range of topics. If you need help in an area, Just ask us and we\'ll cover it!</string>
+     <string name="answer3">Yes you can.\n\nYou will get complete access to all of your reward commissions and referral website visitor traffic in your private back office area.\n\nYou will also be able to view your performance on an hr/daily/weekly and monthly basis with full reporting tools available.</string>
+     <string name="answer4">Your digital account will be credited with direct referral rewards and bonuses once your referred users have successfully purchased, downloaded and activated their App. You will also receive residual ongoing monthly rewards once you have qualified to earn at specific levels of our matrix rewards program. You must have directly referred 1 currently active App service user to earn from levels 1-3. Three currently active direct App service referrals are required to earn from level 4 to 6 and earnings beyond level 7 requires a minimum of 5 currently active directly referred App service users.  Watch our opportunity video for more information on how the commissions, rewards and bonuses are calculated.\n\nAll Rewards and bonus commissions are paid out directly internationally on the 15th of each calender month into users back office online eBanking Account. Further details are set out in our marketing program opportunity PDF on our opportunity page.</string>
+     <string name="answer5">Yes you can.\n\nYou can use your Private Family Network website user id to promote your security products and services both online and offline, provided it complies with our marketing program terms of use.\n\nOffline flyers, promotional and business cards or mailers are some of the many ideas for offline marketing campaigns which your unique PFN code can be used for.</string> -->
+
+    <!-- P2p Contents -->
+
+    <string name="toolbar_name">P2P Protection </string>
+    <string name="toolbar_back_button">PFN</string>
+    <string name="p2p_protection">حماية P2P</string>
+    <string name="p2p_protection_description">أوقف الفيروسات والبرامج الضارة وما إلى ذلك أثناء \ n تنزيل أو مشاركة الملفات عبر الإنترنت</string>
+    <string name="content_filtering_heading">تصفية المحتوى</string>
+    <string name="content_description">تصفية محتوى الويب غير المرغوب فيه</string>
+
+    <!-- Ozone Contents -->
+
+    <string name="ozone_antivirus">Antivirus</string>
+    <string name="ozone_toolbar_back_button">PFN</string>
+    <string name="ozone_toolbar_heading">Ozone(الأوزون)</string>
+    <string name="ozone_antivirus_description">تبقى محمية ضد التهديدات القادمة</string>
+    <string name="ozone_content_filtering">Content Filtering</string>
+    <string name="ozone_content_filtering_description">تصفية محتوى الويب غير المرغوب فيه</string>
+    <string name="ozone_ids_ips">IDS/IPS</string>
+    <string name="ozone_ids_ips_description">كشف وحماية ضد المتسللين</string>
+    <string name="ozone_url_filtering">URL FILTERING</string>
+    <string name="ozone_url_filtering_description">التحكم في مواقع الويب المسموح بتحميلها</string>
+    <string name="ozone_app_filtering">APP FILTERING</string>
+    <string name="ozone_app_filtering_description">التحكم في التطبيقات المسموح بتشغيلها</string>
+    <string name="ozone_url_filtering_config">تهيئة</string>
+    <string name="ozone_app_filtering_config">تهيئة</string>
+
+    <!-- Gravity Contents -->
+
+    <string name="gravity_toolbar_heading">Gravity</string>
+    <string name="gravity_toolbar_back_button">PFN</string>
+    <string name="gravity_toolbar_configure">تهيئة</string>
+    <string name="gravity_disabled_text">معاق</string>
+    <string name="gravity_enabled_text">تمكين</string>
+    <string name="gravity_text_large">Gravity</string>
+    <string name="gravity_text_large_description">أين سنكون بدون جاذبية؟ يمكن لجميع التهديدات من هناك اختراق نظام الخاص بك وفضح لك المخاطر.</string>
+
+    <!-- Settings Contents -->
+
+    <string name="settings_toolbar_heading">الإعدادات</string>
+    <string name="settings_toolbar_back_button">PFN</string>
+    <string name="settings_app_settings">إعدادات التطبيقات</string>
+    <string name="settings_profile">الملف الشخصي</string>
+    <string name="settings_protocol">بروتوكول</string>
+    <string name="settings_change_language">غير اللغة</string>
+    <string name="settings_advanced_settings">إعدادات متقدمة</string>
+    <string name="settings_on_demand_vpn">على الطلب PFN</string>
+    <string name="settings_more">أكثر من</string>
+    <string name="settings_support_center">مركز الدعم</string>
+    <string name="settings_about">حول شبكة العائلة الخاصة</string>
+    <string name="settings_logout">الخروج</string>
+    <!--<string name="settings_settings">إعدادات</string>-->
+
+
+    <!-- settings Inside Protocol -->
+
+    <string name="inside_profile">اسم المستخدم</string>
+    <string name="inside_profile_heading">الملف الشخصي</string>
+    <string name="inside_profile_back">الإعدادات</string>
+    <string name="inside_protocol_heading">بروتوكول</string>
+    <string name="inside_protocol_back">الإعدادات</string>
+    <string name="inside_recomended">البروتوكولات الموصى بها</string>
+    <string name="inside_automatic">تلقائي</string>
+    <string name="inside_automatic_description">السماح PFN تحديد البروتوكول الأنسب بالنسبة لك</string>
+    <string name="inside_ipsec">IPSEC</string>
+    <string name="inside_ipsec_description">حدد هذا للأمان العالي.</string>
+    <string name="inside_ikev2">IKEv2</string>
+    <string name="inside_ikev2_description">اختر هذا للحصول على اتصال موثوق به</string>
+    <string name="inside_manual_protocols">دليل استخدامات</string>
+    <string name="inside_show_connect">إظهار دليل الاتصال.</string>
+    <string name="inside_show_connect_description">يظهر دليل على شاشة الاتصال.</string>
+    <string name="inside_l2tp">L2TP</string>
+    <string name="inside_l2tp_description">أقل سرعة ، المزيد من الأمن.</string>
+    <string name="inside_unable_connect">غير قادر على الاتصال؟</string>
+    <string name="inside_unable_conn_description">دليل اصلاح الاخطاء</string>
+
+    <!-- Protocol inside Unable to connect ? -->
+
+    <string name="inside_unable_connect_heading">استكشاف الأخطاء وإصلاحها</string>
+    <string name="inside_unable_connect_back">بروتوكول</string>
+    <string name="inside_unable_connect_description">اتبع دليل استكشاف الأخطاء وإصلاحها السريع هذا:</string>
+    <string name="protocol_bullet_one">1. اختيار بروتوكول يدوي</string>
+    <string name="protocol_bullet_two">2. عد إلى الشاشة الرئيسية للتطبيق</string>
+    <string name="protocol_bullet_three">3. حدد موقعك والاتصال</string>
+    <string name="protocol_bullet_four">4. تثبيت ملف تعريف الخادم باستخدام بيانات اعتماد PFN \ n ورمز أمان الجهاز</string>
+    <string name="protocol_bullet_five">5. انتقل إلى إعدادات الجهاز> PFN</string>
+    <string name="protocol_bullet_six">.6 ﻗﻢ ﺑﺘﺒﺪﻳﻞ ﻣﻔﺘﺎح ﺗﻬﻴﺌﺔ PFN (ﻓﻲ ﺣﺎﻟﺔ ﻋﺪم اﻟﻨﺠﺎح ، \ n اﺧﺘﺒﺎر ﻣﻮاﻗﻊ ﻣﺨﺘﻠﻔﺔ واﻟﺒﺮوﺗﻮآﻮل</string>
+
+
+    <!-- Settings Change language -->
+
+    <string name="inside_change_lang_heading">غير اللغة</string>
+    <string name="inside_change_lang_back">الإعدادات</string>
+    <string name="inside_change_lang_selected">اللغة المختارة</string>
+    <string name="inside_change_lang_arabic">عربى</string>
+    <string name="inside_change_lang_chinese">صينى</string>
+    <string name="inside_change_lang_dutch">هولندي</string>
+    <string name="inside_change_lang_eng">الإنجليزية</string>
+    <string name="inside_change_lang_french">الفرنسية</string>
+    <string name="inside_change_lang_german">ألمانية</string>
+    <string name="inside_change_lang_spanish">الأسبانية</string>
+    <string name="inside_change_lang_turkish">اللغة التركية</string>
+
+    <!-- Settings On Demand Vpn -->
+
+    <string name="inside_on_demand_heading">انقسام الانفاق</string>
+    <string name="inside_on_demand_back">الإعدادات</string>
+    <string name="inside_on_demand_setup">إعداد انقسام الانفاق</string>
+    <string name="onDemand_working">عند الطلب العمل</string>
+    <string name="inside_on_demand_large_text">انقسام الانفاق</string>
+    <string name="this_functionality_works_automatically">هذه الوظيفة تعمل في الخلفية تلقائيا</string>
+    <string name="inside_on_demand_large_text_description">إن شق الأنفاق هو تقنية تقسيم وتوجيه حركة مرور محددة فقط عبر شبكة PFN ، مع السماح لحركة المرور الأخرى بالوصول مباشرة إلى الإنترنت.</string>
+
+    <!-- Settings Support Centre -->
+
+    <string name="inside_support_heading">بطاقة الدعم</string>
+    <string name="inside_support_back">الإعدادات</string>
+    <string name="inside_support_submit_text">تقديم تذكرة دعم</string>
+    <string name="inside_support_description">سيتم إرسال الردود إلى عنوان البريد الإلكتروني لحساب PFN الخاص بك \ n من موظفي دعم العملاء لدينا.</string>
+    <string name="inside_support_hint">الرجاء وصف ، بالتفصيل ، \n المشكلة التي تواجهها.</string>
+    <string name="inside_support_button">خضع</string>
+
+    <!-- Settings About -->
+
+    <string name="inside_about_heading">حول</string>
+    <string name="inside_about_back">الإعدادات</string>
+    <string name="inside_about_pfn_opportunity">فرصة PFN</string>
+    <string name="inside_about_pfn_back_office">مكتب PFN الخلفي</string>
+    <string name="inside_about_privacy_policy">سياسة خاصة</string>
+    <string name="inside_about_terms">شروط الخدمة</string>
+
+    <!-- Faq Contents -->
+
+    <string name="inside_faq_heading">التعليمات</string>
+    <string name="inside_faq_back">PFN</string>
+    <string name="inside_faq_one_text">هل يمكنني الحصول على عائلتي الخاصة الفريدة \n عنوان موقع الشبكة؟</string>
+    <string name="inside_faq_two_text">هل تقدم أي مواد تسويقية أو أدوات؟</string>
+    <string name="inside_faq_three_text">هل يمكنني عرض مكافآتي وإحالات المستخدم؟</string>
+    <string name="inside_faq_four_text">كيف يمكنني الحصول على مكافآت لجان المكافآت \ n والعلاوات؟</string>
+    <string name="inside_faq_five_text">هل يمكنني استخدام موقع شبكة عائلتي الخاصة الفريدة للترويج غير المتصل؟</string>
+
+    <!-- inside Faq one Contents -->
+
+    <string name="inside_faq_one_heading">إجابة</string>
+    <string name="inside_faq_one_back">FAQ</string>
+    <string name="answer1">نعم ، يمكنك الحصول على موقعك الإلكتروني الخاص بالإحالة والتسويق الخاص بشبكة العلاقات العائلية الخاصة ، والذي يمكنك استخدامه على الفور ومشاركته مع جميع عروضك الترويجية عبر الإنترنت. أضفه إلى موقعك على الويب ، أو الرسائل الإلكترونية الصادرة ، أو حتى ملفاتك الشخصية على Facebook و LinkedIn. \ n \ n سيتم تتبع كل النقرات التي يتم إنشاؤها من موقع الإحالة الفريد لشبكة العائلة الخاصة ، من خلال نظام التسويق الخاص ببرنامج شبكة العائلة الخاص بنا. ستتمكن من عرض جميع زائري موقعك على الويب والمبيعات في منطقة المكتب الخلفي لمستخدم خدمة الشبكة العائلية الخاصة في أي وقت.</string>
+
+
+    <!-- inside Faq two Contents -->
+
+    <string name="inside_faq_two_heading">إجابة</string>
+    <string name="inside_faq_two_back">FAQ</string>
+    <string name="answer2">نعم فعلا. بمجرد شراء تطبيق الأمان وإعداده ، ستتلقى على الفور موقعك المخصص الخاص بك وستحصل على إمكانية الوصول إلى مجموعة متنوعة من أدوات التسويق البسيطة التي يمكنك نسخها ولصقها والتي يمكنك استخدامها على الفور للمساعدة في إنشاء عمولات تطبيقات إحالة المستخدم. \ n \ n سيكون لكل أدوات التسويق هذه رابطًا تسويقيًا فريدًا للعلاقة التجارية مضمنًا فيه بحيث يتم دائمًا تتبع الزائرين الذين تشير إلى موقعك على الويب من خلال نظام التتبع الآمن العالمي. سيكون لديك أيضًا إمكانية الوصول على مدار الساعة طوال أيام الأسبوع إلى مجموعة من أدلة التدريب ومجموعة مختارة من ندوات التدريب على الفيديو المباشر والمحفوظة عبر الإنترنت والمؤتمرات عن طريق مكتبك الخلفي الذي يغطي مجموعة واسعة من الموضوعات. إذا كنت بحاجة إلى مساعدة في منطقة ما ، فقط اسألنا وسنقوم بتغطيتها!</string>
+    <!-- inside Faq three Contents -->
+
+    <string name="inside_faq_three_heading">إجابة</string>
+    <string name="inside_faq_three_back">FAQ</string>
+    <string name="answer3">نعم يمكنك ذلك. \ n \ n ستحصل على حق الوصول الكامل إلى جميع عمولات المكافآت وحركة زائري موقع الإحالة في منطقة مكتبك الخلفي الخاص. \ n \ n ستتمكن أيضًا من عرض أدائك على ساعة / يوميًا / أسبوعيًا و أساس شهري مع أدوات الإبلاغ الكاملة المتاحة.</string>
+
+    <!-- inside Faq four Contents -->
+
+    <string name="inside_faq_four_heading">إجابة</string>
+    <string name="inside_faq_four_back">FAQ</string>
+    <string name="answer4">سيُضاف إلى حسابك الرقمي مكافآت ومكافآت إحالة مباشرة بمجرد قيام المستخدمين المحلين بشراء وتنزيل وتفعيل تطبيقاتهم بنجاح. ستحصل أيضًا على مكافآت شهرية متواصلة بعد التأهل لكسب مستويات محددة من برنامج مكافآت المصفوفات الخاص بنا. يجب أن تكون قد أحالت مباشرة مستخدم خدمة تطبيقات نشط واحد حاليًا للربح من المستويات 1-3. مطلوب ثلاثة إحالات نشطة لخدمات التطبيقات المباشرة في الوقت الحالي لتحقيق الربح من المستوى 4 إلى المستوى 6 وتتطلب الأرباح التي تتجاوز المستوى 7 ما لا يقل عن 5 من مستخدمي خدمة التطبيقات المحالين والمستخدمين مباشرة في الوقت الحالي. شاهد فيديو الفرصة للحصول على مزيد من المعلومات حول كيفية حساب العمولات والمكافآت والمكافآت. \ n \ n يتم دفع جميع مكافآت وعوائد المكافآت دوليًا بشكل مباشر في اليوم الخامس عشر من كل شهر من التقويم إلى حساب المستخدمين في المكتب الخلفي عبر الإنترنت. مزيد من التفاصيل موضحة في برنامجنا التسويقي فرصة PDF على صفحة الفرص لدينا.</string>
+
+    <!-- inside Faq five Contents -->
+
+    <string name="inside_faq_five_heading">إجابة</string>
+    <string name="inside_faq_five_back">FAQ</string>
+    <string name="answer5">نعم ، يمكنك ذلك. \ n \ n يمكنك استخدام معرف مستخدم موقع الويب الخاص بشبكة العائلة الخاصة للترويج لمنتجاتك وخدمات الأمان على الإنترنت وفي وضع عدم الاتصال ، بشرط أن يتوافق مع بنود استخدام برنامج التسويق لدينا. \ n \ n النشرات الترويجية والبطاقات الترويجية وبطاقات العمل أو البريد الإلكتروني هي بعض الأفكار العديدة لحملات التسويق التي تتم دون اتصال بالإنترنت والتي يمكن استخدام رمز PFN الفريد لها.</string>
+
+
+    <!-- Hd Stream Bottom Navigation Bar -->
+
+    <string name="hd_bottom_navigation_location">تغيير الموقع</string>
+    <string name="hd_bottom_navigation_quick">اتصال سريع</string>
+    <string name="hd_bottom_navigation_channels">قنوات</string>
+    <string name="hd_stream_main_heading">HD STREAM</string>
+
+    <!-- Hd Stream Header Heading and menus-->
+
+    <string name="hd_stream_header_heading">HD STREAM</string>
+    <string name="hd_stream_nav_one">الجاذبية</string>
+    <string name="hd_stream_nav_two">الإعدادات</string>
+    <string name="hd_stream_nav_three">Faq</string>
+
+    <!-- Internet Freedom Bottom Navigation Bar -->
+
+    <string name="internet_bottom_navigation_location">تغيير الموقع</string>
+    <string name="internet_bottom_navigation_quick">اتصال سريع</string>
+    <string name="internet_bottom_navigation_purpose">غرض</string>
+    <string name="internet_bottom_navigation_main_heading">حرية الإنترنت</string>
+
+    <!-- Internet Freedom Header Heading and menus -->
+
+    <string name="internet_freedom_header_heading">حرية الإنترنت</string>
+
+    <!-- Security Privacy Bottom Navigation -->
+
+    <string name="security_bottom_navigation_location">تغيير الموقع</string>
+    <string name="security_bottom_navigation_quick">اتصال سريع</string>
+    <string name="security_bottom_navigation_main_heading">الأمانة و أمبير؛ خصوصية</string>
+
+    <!-- Security Privacy Header Heading and menus -->
+
+    <string name="security_privacy_header_heading">الأمانة و أمبير؛ خصوصية</string>
+    <string name="security_privacy_nav_one">الأوزون</string>
+    <string name="security_privacy_nav_two">Gravity</string>
+    <string name="security_privacy_nav_three">الإعدادات</string>
+    <string name="security_privacy_nav_four">Faq</string>
+
+
+
+    <!-- File sharing -->
+
+    <string name="file_bottom_navigation_location">تغيير الموقع</string>
+    <string name="file_bottom_navigation_quick">اتصال سريع</string>
+    <string name="file_bottom_navigation_main_heading">مشاركة الملفات</string>
+
+    <!-- File sharing Navigation Header Heading and menus -->
+
+    <string name="file_sharing_header_heading">مشاركة الملفات</string>
+    <string name="file_sharing_nav_one">P2P حماية</string>
+    <string name="file_sharing_nav_two">Gravity</string>
+    <string name="file_sharing_nav_three">الإعدادات</string>
+    <string name="file_sharing_nav_four">Faq</string>
+
+    <!-- Hd Stream Inside Locations -->
+
+    <string name="hd_stream_inside_locations_heading">تغيير الموقع</string>
+    <string name="hd_stream_inside_locations_countries">بلدان</string>
+    <string name="hd_stream_inside_locations_cities">مدن</string>
+    <string name="hd_stream_inside_locations_search">بحث</string>
+    <string name="hd_stream_inside_locations_favourities">المفضلة</string>
+    <!--<string name="hd_stream_inside_locations_fav_desc">سوف تظهر مواقعك المفضلة هنا.</string>-->
+
+    <!-- Hd Stream Inside Channels -->
+
+    <string name="hd_stream_inside_channels_heading">قنوات</string>
+    <string name="hd_stream_inside_channels_search">بحث</string>
+    <string name="hd_stream_inside_channels_favourities">المفضلة</string>
+    <string name="hd_stream_inside_channels_fav_desc">سوف تظهر مواقعك المفضلة هنا.</string>
+    <string name="hd_stream_inside_channels_channels">قنوات</string>
+
+
+
+    <!-- Internet Freedom Inside purpose -->
+
+    <string name="internet_inside_purpose_heading">غرض</string>
+    <string name="internet_inside_purpose_search">بحث</string>
+    <string name="internet_inside_purpose_favourities">المفضلة</string>
+    <string name="internet_inside_purpose_fav_desc">سوف تظهر مواقعك المفضلة هنا.</string>
+    <string name="internet_inside_purpose_purposes">المقاصد</string>
+
+    <string name="total_online_security2">الأمن والخصوصية وحرية الإنترنت لجميع أفراد الأسرة</string>
+
+
+
+    <string name="stop_viruses_malware">أوقف الفيروسات والبرامج الضارة وغيرها أثناء تنزيل الملفات أو مشاركتها عبر الإنترنت</string>
+    <string name="update">تحديث</string>
+    <string name="first_name">الاسم الاول</string>
+    <string name="last_name">الكنية</string>
+    <string name="dddress">عنوان</string>
+    <string name="company">شركة</string>
+    <string name="choose_country">اختر البلد</string>
+    <string name="favourites">المفضلة</string>
+    <string name="enter_password">أدخل كلمة المرور</string>
+    <string name="password">كلمه السر</string>
+    <string name="enter_username">ادخل اسم المستخدم</string>
+    <string name="username">اسم المستخدم</string>
+
+
+
+    <string name="share_app">يرجى مشاركة رابط PFN هذا مع أصدقائك وعائلتك وكسب مكافآت إضافية</string>
+
+    <string name="secure_wifi">تأمين واي فاي</string>
+    <string name="multi_port">متعدد ميناء</string>
+    <string name="network_type">نوع الشبكة</string>
+    <string name="auto_connect">ربط السيارات</string>
+    <string name="internet_kill">قتل الانترنت التبديل</string>
+    <string name="connect_on_cellular">الاتصال على الخلوية</string>
+    <string name="multi_port_description">Multi Port هي ميزة اختيار المنفذ التلقائي التي تقوم بمسح المنافذ المفتوحة للاتصال بها. يبحث عن منافذ مغلقة أو خنق ومن ثم يختار أفضل منفذ للاتصال.</string>
+    <string name="auto_port_description">يقوم تحديد المنفذ التلقائي بمسح المنافذ المفتوحة لتجاوز حظر المنفذ وتوصيلك بأفضل منفذ. نطاق الميناء (53،5500-30000)</string>
+    <string name="enter_port">أدخل رقم المنفذ</string>
+    <string name="kill_switch_desc">بمجرد التمكين ، ستؤدي عملية قتل الإنترنت إلى إيقاف جميع أنشطة الإنترنت بمجرد إيقاف اتصال PFN. عند إعادة إنشاء اتصال PFN ، ستعود أنشطة الإنترنت إلى حالتها الطبيعية.</string>
+    <string name="connected_to">أنت الآن متصل بـ PFN</string>
+    <string name="connect_on_non_secure">الاتصال على شبكات غير آمنة</string>
+    <string name="reconnect_on_disconnect_head">إعادة الاتصال على قطع الاتصال</string>
+    <string name="connect_on_phone_restart">الاتصال على الهاتف إعادة التشغيل</string>
+
+
+
+
+
+    <string name="reconnect_on_disconnect">عند إسقاط اتصال PFN ، سيتم إعادة توصيل PFN تلقائيًا.</string>
+    <string name="reconnect_on_restart">عند إعادة تشغيل الهاتف ، سيتم توصيل PFN تلقائيًا.</string>
+    <string name="connect_on_celluar">الاتصال تلقائيا على شبكات celluar.</string>
+    <string name="connect_on_non_secure_nets">الاتصال تلقائيًا على شبكات غير آمنة.</string>
+    <string name="when_connected_to_new">عند الاتصال بشبكة WiFi جديدة</string>
+    <string name="note">تحذير</string>
+    <string name="automatically">تلقائيا</string>
+    <string name="auto_non_nat_networks_desc">يعين لك الملكية الفكرية العامة الفريدة لجلسة PFN</string>
+    <string name="auto_nat_networks_desc">يعين لك الملكية الفكرية العامة المشتركة لجلسة PFN الخاصة بك. (تحذير: حماية P2P ، ميناء الشحن غير مدعوم على شبكات نت. سيتم تعطيل هذه الميزات عند اختيار شبكة نت).</string>
+    <string name="auto_non_nat_networks">شبكات غير نات</string>
+    <string name="auto_nat_networks">نات نتوركس</string>
+    <string name="net_auto_desc">نحن نوصلك بأي من هذه الشبكات على أساس السعة المتاحة.</string>
+    <string name="note_description">للمستخدمين المتقدمين فقط. يرجى عدم تغيير هذه الإعدادات حتى تعرف ما تفعله.</string>
+
+
+    <string name="click_to_add_channel">أيقونة لإضافة القنوات المفضلة لديك هنا</string>
+
+
+</resources>

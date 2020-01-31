@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Spanish Language -->
+<resources>
+
+    <string name="logout">Cerrar sesión</string>
+    <string name="logout_description">¿Estás seguro de que quieres cerrar sesión? Ya no estarás conectado a los servicios de PFN.</string>
+
+    <string name="click_to_add_channel">icône pour ajouter vos chaînes préférées ici</string>
+
+    <string name="error_list">Error al obtener la lista</string>
+
+    <string name="app_name">VPNATOM</string>
+    <string name="military_grade">Cifrado de grado militar para protección total</string>
+    <string name="military_discription">
+Obtenga la libertad, seguridad y privacidad total de Internet con cifrado reforzado que garantiza su anonimato</string>
+    <string name="ozone_protection">Protección del ozono</string>
+    <string name="onDemand_working">On Demand trabajando</string>
+
+    <string name="click_to_add_1">Haga clic en el    </string>
+    <string name="click_to_add_2">icono para agregar su ubicación favorita aquí</string>
+    <string name="done_desc">Introduzca su nombre de usuario y contraseña y haga clic en "Listo"</string>
+    <string name="share_text">Hola, si alguna vez quiso entrar al comienzo de algo realmente enorme: esta es su oportunidad: el lanzamiento de una innovación en el momento oportuno para disfrutar de un crecimiento explosivo en un mercado global masivo. Si desea compartirlo, haga clic aquí para obtener más información, https://user.theprivatefamilynetwork.com/registration/</string>
+
+    <string name="ozone_description">Protección 24/7 entregada por seguridad impenetrable.</string>
+    <string name="dont_have_account">¿No tienes una cuenta PFN?</string>
+    <string name="click_here_to_learn_more">Clic aquí para saber más</string>
+    <string name="security_app_pays">La solución de seguridad que se paga sola.</string>
+    <string name="the_private_family_network">La red privada de la familia</string>
+    <string name="world_class_premium_online_security_solutions">Soluciones de seguridad en línea de primera clase mundial</string>
+    <string name="incridible_opertunity">Oportunidad increible</string>
+    <string name="gold_standard">El estándar de oro en marketing relacional</string>
+    <string name="private_family_network">Accede a la red privada familiar hoy
+y disfruta de todos los beneficios extra.</string>
+    <string name="app_intro_skip">Omitir</string>
+    <string name="next">SIGUIENTE</string>
+    <string name="skip">OMITIR</string>
+    <string name="start">LO TENGO</string>
+    <string name="done">Hecho</string>
+    <string name="app_bar_configure">Configurar</string>
+    <string name="app_bar_pfn">PFN</string>
+    <string name="gravity_discription">¿Dónde estaríamos sin la gravedad? Todas las amenazas pueden infiltrarse en su sistema y exponerlo a riesgos.</string>
+    <string name="back">Espalda</string>
+    <string name="enabled_gravity_discription">La gravedad te está protegiendo para asegurar tu tranquilidad. Estás protegido las 24 horas del día contra virus, sitios web desagradables y malware.</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="hd_stream">HD STREAM</string>
+    <string name="hd_stream_description">Experimente un ancho de banda ilimitado premium mientras transmite desde cualquier parte del mundo</string>
+    <string name="internet_freedom_description">Navega por Internet sin restricciones geográficas y disfruta del contenido de todos los rincones de la tierra</string>
+    <string name="security_privacy_description">Obtiene total libertad y privacidad en Internet con un cifrado reforzado que garantiza su anonimato</string>
+    <string name="internet_freedom">LIBERTAD DE INTERNET</string>
+    <string name="security_privacy">SEGURIDAD / PRIVACIDAD</string>
+    <string name="file_sharing">COMPARTICIÓN DE ARCHIVOS</string>
+    <string name="file_sharing_description">Comparta sus archivos de forma instantánea y privada en numerosas plataformas de alta velocidad para compartir archivos</string>
+    <string name="dedicated_ip">IP DEDICADA</string>
+    <string name="dedicated_ip_descriptipon">Próximamente</string>
+    <string name="mode_selection">Seleccione el modo que mejor se adapte a su propósito.
+Al utilizar el modo más apropiado, podemos optimizar el rendimiento de su red.</string>
+    <string name="select_mode">Seleccionar modo</string>
+    <string name="app_bar_forgot_password_text">Se te olvidó tu contraseña</string>
+    <string name="forgot_password">¿Se te olvidó tu contraseña?</string>
+    <string name="app_bar_gravity">Gravity</string>
+    <string name="forgot_password_instructions">Ingrese su nombre de usuario y toque "Listo". Le enviaremos un correo electrónico con instrucciones sobre cómo restablecer su contraseña. </string>
+    <string name="title_activity_main_app">MainAppActivity</string>
+    <string name="select_mode_that_serves_you_best">Optimice el rendimiento de su red seleccionando el modo que mejor se adapte a su propósito específico</string>
+    <string name="label_title"><font fgcolor="#ffff0000">La red privada de la familia</font></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="total_online_security2">Seguridad, privacidad y libertad de internet para toda la familia.</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_location_countries"><font fgcolor="#ffff0000">Ubicación</font></string>
+    <string name="title_activity_purpose">PurposeActivity</string>
+    <string name="title_activity_channel">ChannelActivity</string>
+    <string name="title_activity_internet_freedom">InternetFreedomActivity</string>
+    <string name="title_activity_security">SecurityActivity</string>
+    <string name="title_activity_location_security">LocationSecurityActivity</string>
+    <string name="title_activity_file_sharing">FileSharingActivity</string>
+    <string name="title_activity_file_share_quick_connect">FileShareQuickConnectActivity</string>
+    <string name="title_activity_file_share_mode_selection">FileShareModeSelectionActivity</string>
+    <string name="title_activity_internet_freedom_locations">InternetFreedomLocationsActivity
+    </string>
+    <string name="atom_secret_key">b12e0405d803ba771c46bb94be29a0a59f976b06</string>
+
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates the use of Atom SDK for
+            Privacy and Security.
+
+
+        ]]>
+    </string>
+    <string name="label_uuid">UUID</string>
+    <string name="label_connect_via">Connect with</string>
+    <string name="label_connect_with_psk">Connect with Pre-Shared Key</string>
+    <string name="label_connect_with_params">Connect with Params</string>
+    <string name="label_connect_with_dedicated_ip">Connect with Dedicated IP</string>
+    <string name="lbl_optimize_connection">Optimize Connection</string>
+    <string name="lbl_connect">Connect</string>
+    <string name="lbl_select_protocol">Select Protocol</string>
+    <string name="lbl_dedicated_ip">Dedicated IP</string>
+    <string name="lbl_skip_user_verification">Skip User Verification</string>
+    <string name="lbl_pre_shared_key">Pre-Shared Key</string>
+    <string name="empty_secret_key">Secret Key is required</string>
+    <string name="lbl_primary_protocol">Primary Protocol</string>
+    <string name="lbl_secondary_protocol">Secondary Protocol</string>
+    <string name="lbl_tertiary_protocol">Tertiary Protocol</string>
+    <string name="lbl_select_country">Select Country</string>
+
+    <string name="doiget">¿Obtengo mi propia familia privada única \ nURL del sitio web de la red?</string>
+    <string name="doyouprovide">¿Proporcionas algún material de marketing o herramientas?</string>
+    <string name="caniview">¿Puedo ver mis comisiones de recompensa y las referencias de usuarios?</string>
+    <string name="howdoigetpaid">¿Cómo me pagan las primas de mis comisiones y las bonificaciones?</string>
+    <string name="caniusemyunique">¿Puedo usar el sitio web de mi red privada de familia única para promociones sin conexión?</string>
+
+    <!-- <string name="answer1">Yes, you get your very own unique private family network relationship marketing referral website,  that you can immediately use and share with all of your online promotions. Add it to your own website, outgoing emails, or even your Facebook and LinkedIn profiles.\n\nEach and every click that is generated from your unique private family network referral website, will be tracked by our private family network software marketing system.  You\'ll be able to view all of your website visitors and sales in your private family network service user back office area at any time.</string>
+     <string name="answer2">Yes. Once you purchase your security app and set it up, you\'ll instantly receive your own personalized website and get access to a variety of simple to copy and paste marketing tools that you can use immediately to help generate referral user app commissions.\n\nEach of those marketing tools will have your own unique relationship marketing link embedded in it so that the visitors you refer to your website will always be tracked by our global secure tracking system. You\'ll also have 24/7 access to a host of training manuals and a selection of live and video archived product and opportunity training webinars via your back office covering a wide range of topics. If you need help in an area, Just ask us and we\'ll cover it!</string>
+     <string name="answer3">Yes you can.\n\nYou will get complete access to all of your reward commissions and referral website visitor traffic in your private back office area.\n\nYou will also be able to view your performance on an hr/daily/weekly and monthly basis with full reporting tools available.</string>
+     <string name="answer4">Your digital account will be credited with direct referral rewards and bonuses once your referred users have successfully purchased, downloaded and activated their App. You will also receive residual ongoing monthly rewards once you have qualified to earn at specific levels of our matrix rewards program. You must have directly referred 1 currently active App service user to earn from levels 1-3. Three currently active direct App service referrals are required to earn from level 4 to 6 and earnings beyond level 7 requires a minimum of 5 currently active directly referred App service users.  Watch our opportunity video for more information on how the commissions, rewards and bonuses are calculated.\n\nAll Rewards and bonus commissions are paid out directly internationally on the 15th of each calender month into users back office online eBanking Account. Further details are set out in our marketing program opportunity PDF on our opportunity page.</string>
+     <string name="answer5">Yes you can.\n\nYou can use your Private Family Network website user id to promote your security products and services both online and offline, provided it complies with our marketing program terms of use.\n\nOffline flyers, promotional and business cards or mailers are some of the many ideas for offline marketing campaigns which your unique PFN code can be used for.</string> -->
+
+    <!-- P2p Contents -->
+
+    <string name="toolbar_name">Protección P2P</string>
+    <string name="toolbar_back_button">PFN</string>
+    <string name="p2p_protection">Protección P2P</string>
+    <string name="p2p_protection_description">Detenga virus, malware, etc., mientras \n descarga o comparte archivos en línea</string>
+    <string name="content_filtering_heading">Filtrado de contenido</string>
+    <string name="content_description">Filtrar contenido web no deseado</string>
+
+    <!-- Ozone Contents -->
+
+    <string name="ozone_antivirus">Antivirus</string>
+    <string name="ozone_toolbar_back_button">PFN</string>
+    <string name="ozone_toolbar_heading">Ozono</string>
+    <string name="ozone_antivirus_description">Permanecer protegido contra amenazas entrantes</string>
+    <string name="ozone_content_filtering">Filtrado de contenido</string>
+    <string name="ozone_content_filtering_description">Filtrar contenido web no deseado</string>
+    <string name="ozone_ids_ips">IDS/IPS</string>
+    <string name="ozone_ids_ips_description">Detección y protección contra intrusos.</string>
+    <string name="ozone_url_filtering">URL FILTRADO</string>
+    <string name="ozone_url_filtering_description">Controla qué sitios web están autorizados a cargar</string>
+    <string name="ozone_app_filtering">FILTRADO DE APLICACIONES</string>
+    <string name="ozone_app_filtering_description">Controla qué aplicaciones pueden ejecutarse</string>
+    <string name="ozone_url_filtering_config">Configurar</string>
+    <string name="ozone_app_filtering_config">Configurar</string>
+
+    <!-- Gravity Contents -->
+
+    <string name="gravity_toolbar_heading">Gravity</string>
+    <string name="gravity_toolbar_back_button">PFN</string>
+    <string name="gravity_toolbar_configure">Configurar</string>
+    <string name="gravity_disabled_text">Discapacitado</string>
+    <string name="gravity_enabled_text">Habilitado</string>
+    <string name="gravity_text_large">Gravity</string>
+    <string name="gravity_text_large_description">¿Dónde estaríamos sin la gravedad? Todas las amenazas pueden infiltrarse en su sistema y exponerlo a riesgos.</string>
+
+    <!-- Settings Contents -->
+
+    <string name="settings_toolbar_heading">Ajustes</string>
+    <string name="settings_toolbar_back_button">PFN</string>
+    <string name="settings_app_settings">Ajustes de Aplicacion</string>
+    <string name="settings_profile">Perfil</string>
+    <string name="settings_protocol">Protocolo</string>
+    <string name="settings_change_language">Cambiar idioma</string>
+    <string name="settings_advanced_settings">Ajustes avanzados</string>
+    <string name="settings_on_demand_vpn">PFN bajo demanda</string>
+    <string name="settings_more">Más</string>
+    <string name="settings_support_center">Centro de apoyo</string>
+    <string name="settings_about">Acerca de la red privada de la familia</string>
+    <string name="settings_logout">Cerrar sesión</string>
+
+
+    <!-- settings Inside Protocol -->
+
+    <string name="inside_profile">Nombre de usuario</string>
+    <string name="inside_profile_heading">Perfil</string>
+    <string name="inside_profile_back">Ajustes</string>
+    <string name="inside_protocol_heading">Protocolo</string>
+    <string name="inside_protocol_back">Ajustes</string>
+    <string name="inside_recomended">PROTOCOLOS RECOMENDADOS</string>
+    <string name="inside_automatic">Automático</string>
+    <string name="inside_automatic_description">Permita que PFN seleccione el protocolo más apropiado para usted.</string>
+    <string name="inside_ipsec">IPSEC</string>
+    <string name="inside_ipsec_description">Seleccione esto para mayor seguridad.</string>
+    <string name="inside_ikev2">IKEv2</string>
+    <string name="inside_ikev2_description">Seleccione esto para una conexión confiable</string>
+    <string name="inside_manual_protocols">PROTOCOLOS MANUALES</string>
+    <string name="inside_show_connect">Mostrar guía de conexión.</string>
+    <string name="inside_show_connect_description">Muestra una guía en pantalla de conexión.</string>
+    <string name="inside_l2tp">L2TP</string>
+    <string name="inside_l2tp_description">Menos velocidad, más seguridad.</string>
+    <string name="inside_unable_connect">¿No puede conectarse?</string>
+    <string name="inside_unable_conn_description">Guía para resolver problemas</string>
+
+    <!-- Protocol inside Unable to connect ? -->
+
+    <string name="inside_unable_connect_heading">Solución de problemas</string>
+    <string name="inside_unable_connect_back">Protocolo</string>
+    <string name="inside_unable_connect_description">Siga esta guía rápida de solución de problemas:</string>
+    <string name="protocol_bullet_one">1. Elija un protocolo manual</string>
+    <string name="protocol_bullet_two">2. Volver a la pantalla de inicio de la aplicación</string>
+    <string name="protocol_bullet_three">3. Seleccione su ubicación &amp; conectar</string>
+    <string name="protocol_bullet_four">4. Instale el perfil del servidor con sus credenciales PFN \ny el código de seguridad del dispositivo</string>
+    <string name="protocol_bullet_five">5. Vaya a la Configuración de su dispositivo> PFN</string>
+    <string name="protocol_bullet_six">6. Alterne el conmutador de configuración de PFN (si no tiene éxito, \ntrate diferentes ubicaciones y protocolos)</string>
+
+
+    <!-- Settings Change language -->
+
+    <string name="inside_change_lang_heading">Cambiar idioma</string>
+    <string name="inside_change_lang_back">Ajustes</string>
+    <string name="inside_change_lang_selected">Idioma seleccionado</string>
+    <string name="inside_change_lang_arabic">Arábica</string>
+    <string name="inside_change_lang_chinese">chino</string>
+    <string name="inside_change_lang_dutch">holandés</string>
+    <string name="inside_change_lang_eng">Inglés</string>
+    <string name="inside_change_lang_french">francés</string>
+    <string name="inside_change_lang_german">alemán</string>
+    <string name="inside_change_lang_spanish">Español</string>
+    <string name="inside_change_lang_turkish">turco</string>
+
+    <!-- Settings On Demand Vpn -->
+
+    <string name="inside_on_demand_heading">Túnel dividido</string>
+    <string name="inside_on_demand_back">Ajustes</string>
+    <string name="inside_on_demand_setup">Configuración Túnel dividido</string>
+    <string name="inside_on_demand_large_text">Túnel dividido</string>
+    <string name="this_functionality_works_automatically">Esta funcionalidad funciona en el backend automáticamente</string>
+    <string name="inside_on_demand_large_text_description">La tunelización dividida es la técnica de dividir y enrutar solo el tráfico específico a través de la red PFN, mientras que permite que otro tráfico acceda directamente a Internet.</string>
+
+    <!-- Settings Support Centre -->
+
+    <string name="inside_support_heading">Boleto de Apoyo</string>
+    <string name="inside_support_back">Ajustes</string>
+    <string name="inside_support_submit_text">Presentar un ticket de soporte</string>
+    <string name="inside_support_description">Las respuestas se enviarán a la dirección de correo electrónico de su cuenta PFN \nde nuestro personal de atención al cliente.</string>
+    <string name="inside_support_hint">Describa, en detalle, \n el problema que está experimentando.</string>
+    <string name="inside_support_button">Enviar</string>
+
+    <!-- Settings About -->
+
+    <string name="inside_about_heading">Acerca de</string>
+    <string name="inside_about_back">Ajustes</string>
+    <string name="inside_about_pfn_opportunity">La Oportunidad PFN</string>
+    <string name="inside_about_pfn_back_office">El Back Office de PFN</string>
+    <string name="inside_about_privacy_policy">Política de privacidad</string>
+    <string name="inside_about_terms">Términos de servicio</string>
+
+    <!-- Faq Contents -->
+
+    <string name="inside_faq_heading">FAQ</string>
+    <string name="inside_faq_back">PFN</string>
+    <string name="inside_faq_one_text">¿Obtengo mi propia URL de sitio web de red privada?</string>
+    <string name="inside_faq_two_text">¿Proporcionas algún material de marketing o herramientas?</string>
+    <string name="inside_faq_three_text">¿Puedo ver mis comisiones de recompensa y las referencias de usuarios?</string>
+    <string name="inside_faq_four_text">¿Cómo me pagan las comisiones? Recompensas \ny los bonos?</string>
+    <string name="inside_faq_five_text">¿Puedo usar el sitio web de mi red privada de familia única para promociones sin conexión?</string>
+
+    <!-- inside Faq one Contents -->
+
+    <string name="inside_faq_one_heading">Responder</string>
+    <string name="inside_faq_one_back">FAQ</string>
+    <string name="answer1">Sí, obtienes tu propio y exclusivo sitio web de referencia de mercadotecnia de relaciones familiares privadas, que puedes usar y compartir de inmediato con todas tus promociones en línea. Agréguelo a su propio sitio web, correos electrónicos salientes o incluso a sus perfiles de Facebook y LinkedIn. \n\n Cada sistema de mercadeo de software de la red privada de la familia rastreará cada y cada clic que se genere a partir de su exclusivo sitio de referencia de red familiar privada. Podrá ver en cualquier momento todos los visitantes y ventas de su sitio web en el área de back office de los usuarios de la red familiar privada.</string>
+
+
+    <!-- inside Faq two Contents -->
+
+    <string name="inside_faq_two_heading">Responder</string>
+    <string name="inside_faq_two_back">FAQ</string>
+    <string name="answer2">Sí. Una vez que compre su aplicación de seguridad y la configure,instantáneamente recibirá su propio sitio web personalizado y tendrá acceso a una variedad de herramientas de marketing fáciles de copiar y pegar que puede usar de inmediato para ayudar a generar comisiones de aplicaciones de usuarios de referencia. \n\n Cada una de esas herramientas de marketing tendrá su propia relación de marketing única. enlace incrustado en él para que los visitantes que refiera a su sitio web siempre sean rastreados por nuestro sistema de seguimiento seguro global. También tendrá acceso las 24 horas al día, los 7 días de la semana, a una gran cantidad de manuales de capacitación y una selección de seminarios web de capacitación sobre oportunidades y productos archivados en video y en vivo a través de su oficina administrativa que cubren una amplia gama de temas. Si necesita ayuda en un área, ¡Solo pregúntenos y lo cubriremos!</string>
+    <!-- inside Faq three Contents -->
+
+    <string name="inside_faq_three_heading">Responder</string>
+    <string name="inside_faq_three_back">FAQ</string>
+    <string name="answer3">Sí, puede. \n\nUsted tendrá acceso completo a todas sus comisiones de recompensa y tráfico de visitantes del sitio web de referencia en su área de oficina privada. \n\nTambién podrá ver su desempeño en una hora / día / semanal Base mensual con herramientas de reporte completas disponibles.</string>
+
+    <!-- inside Faq four Contents -->
+
+    <string name="inside_faq_four_heading">Responder</string>
+    <string name="inside_faq_four_back">FAQ</string>
+    <string name="answer4">A su cuenta digital se le acreditarán recompensas y bonificaciones por referencias directas una vez que sus usuarios referidos hayan adquirido, descargado y activado su aplicación con éxito. También recibirá una recompensa mensual continua residual una vez que haya calificado para ganar en niveles específicos de nuestro programa de recompensas de matriz. Debe haber referido directamente a 1 usuario del servicio de aplicaciones actualmente activo para ganar desde los niveles 1-3. Se requieren tres referencias de servicios de aplicaciones directas activas actualmente para ganar del nivel 4 al 6 y las ganancias más allá del nivel 7 requieren un mínimo de 5 usuarios de servicios de aplicaciones directamente referidos actualmente activos. Mire nuestro video de oportunidad para obtener más información sobre cómo se calculan las comisiones, las recompensas y los bonos. \n\nTodas las recompensas y las comisiones de los bonos se pagan directamente a nivel internacional el día 15 de cada mes en la cuenta de banco electrónico de los usuarios en el back office. Más detalles se encuentran en nuestro programa de marketing en PDF en nuestra página de oportunidades.</string>
+
+    <!-- inside Faq five Contents -->
+
+    <string name="inside_faq_five_heading">Responder</string>
+    <string name="inside_faq_five_back">FAQ</string>
+    <string name="answer5">Sí. \n\nPuede utilizar la identificación de usuario de su sitio web de Private Family Network para promocionar sus productos y servicios de seguridad tanto en línea como fuera de línea, siempre que cumpla con los términos de uso de nuestro programa de marketing. \n\n Folletos, tarjetas promocionales y de negocios. o los anuncios publicitarios son algunas de las muchas ideas para campañas de marketing fuera de línea para las que se puede utilizar su código PFN único.</string>
+
+
+    <!-- Hd Stream Bottom Navigation Bar -->
+
+    <string name="hd_bottom_navigation_location">Ubicación</string>
+    <string name="hd_bottom_navigation_quick">Quick Connect</string>
+    <string name="hd_bottom_navigation_channels">Channels</string>
+    <string name="hd_stream_main_heading">HD STREAM</string>
+
+    <!-- Hd Stream Header Heading and menus-->
+
+    <string name="hd_stream_header_heading">HD STREAM</string>
+    <string name="hd_stream_nav_one">Gravity</string>
+    <string name="hd_stream_nav_two">Ajustes</string>
+    <string name="hd_stream_nav_three">Faq</string>
+
+    <!-- Internet Freedom Bottom Navigation Bar -->
+
+    <string name="internet_bottom_navigation_location">Ubicación</string>
+    <string name="internet_bottom_navigation_quick">Conexión rápida</string>
+    <string name="internet_bottom_navigation_purpose">Purpose</string>
+    <string name="internet_bottom_navigation_main_heading">INTERNET FREEDOM</string>
+
+    <!-- Internet Freedom Header Heading and menus -->
+
+    <string name="internet_freedom_header_heading">INTERNET FREEDOM</string>
+
+    <!-- Security Privacy Bottom Navigation -->
+
+    <string name="security_bottom_navigation_location">Ubicación</string>
+    <string name="security_bottom_navigation_quick">Conexión rápida</string>
+    <string name="security_bottom_navigation_main_heading">SECURITY / PRIVACY</string>
+
+    <!-- Security Privacy Header Heading and menus -->
+
+    <string name="security_privacy_header_heading">SECURITY / PRIVACY</string>
+    <string name="security_privacy_nav_one">Ozono</string>
+    <string name="security_privacy_nav_two">Gravity</string>
+    <string name="security_privacy_nav_three">Ajustes</string>
+    <string name="security_privacy_nav_four">Faq</string>
+
+
+
+    <!-- File sharing -->
+
+    <string name="file_bottom_navigation_location">Ubicación</string>
+    <string name="file_bottom_navigation_quick">Conexión rápida</string>
+    <string name="file_bottom_navigation_main_heading">COMPARTICIÓN DE ARCHIVOS</string>
+
+    <!-- File sharing Navigation Header Heading and menus -->
+
+    <string name="file_sharing_header_heading">COMPARTICIÓN DE ARCHIVOS</string>
+    <string name="file_sharing_nav_one">Protección P2P</string>
+    <string name="file_sharing_nav_two">Gravity</string>
+    <string name="file_sharing_nav_three">Ajustes</string>
+    <string name="file_sharing_nav_four">Faq</string>
+
+    <!-- Hd Stream Inside Locations -->
+
+    <string name="hd_stream_inside_locations_heading">Ubicación</string>
+    <string name="hd_stream_inside_locations_countries">Países</string>
+    <string name="hd_stream_inside_locations_cities">Ciudades</string>
+    <string name="hd_stream_inside_locations_search">Buscar</string>
+    <string name="hd_stream_inside_locations_favourities">Favoritos</string>
+    <!--<string name="hd_stream_inside_locations_fav_desc">Tus ubicaciones favoritas aparecerán aquí.</string>-->
+
+    <!-- Hd Stream Inside Channels -->
+
+    <string name="hd_stream_inside_channels_heading">Channels</string>
+    <string name="hd_stream_inside_channels_search">Buscar</string>
+    <string name="hd_stream_inside_channels_favourities">Favoritos</string>
+    <string name="hd_stream_inside_channels_fav_desc">Tus ubicaciones favoritas aparecerán aquí.</string>
+    <string name="hd_stream_inside_channels_channels">Los canales</string>
+
+
+
+    <!-- Internet Freedom Inside purpose -->
+
+    <string name="internet_inside_purpose_heading">Purpose</string>
+    <string name="internet_inside_purpose_search">Buscar</string>
+    <string name="internet_inside_purpose_favourities">Favoritos</string>
+    <string name="internet_inside_purpose_fav_desc">Tus ubicaciones favoritas aparecerán aquí.</string>
+    <string name="internet_inside_purpose_purposes">Fines</string>
+
+
+
+
+
+    <string name="stop_viruses_malware">Detenga virus, malware, etc., mientras descarga o comparte archivos en línea</string>
+    <string name="update">Actualizar</string>
+    <string name="first_name">Nombre de pila</string>
+    <string name="last_name">Apellido</string>
+    <string name="dddress">Dirección</string>
+    <string name="company">Empresa</string>
+    <string name="choose_country">Elige país</string>
+    <string name="favourites">Favoritos</string>
+
+    <string name="connected_to">Ahora estás conectado a The PFN</string>
+
+
+
+    <string name="secure_wifi">Wifi seguro</string>
+    <string name="auto_connect">Autoconectar</string>
+    <string name="network_type">Tipo de red</string>
+    <string name="internet_kill">Interruptor de muerte de Internet</string>
+    <string name="multi_port">Multi Puerto</string>
+    <string name="multi_port_description">Puerto múltiple es una función de selección de puerto automática que busca puertos abiertos para conectarse. Busca puertos cerrados o acelerados y luego selecciona el mejor puerto para la conectividad.</string>
+    <string name="auto_port_description">La selección automática de puertos explora los puertos abiertos para evitar el bloqueo de puertos y conectarse al mejor puerto. Rango de puertos (53,5500–30000)</string>
+    <string name="enter_port">Ingrese el número de puerto</string>
+    <string name="manual_port_selection">La selección manual de puertos le permite ingresar su puerto deseado.</string>
+
+
+    <string name="kill_switch_desc">Una vez habilitado, Internet swtich cerrará todas las actividades de Internet tan pronto como se interrumpa la conexión PFN. Cuando se restablece la conexión PFN, las actividades de Internet volverán a su estado normal.</string>
+    <string name="reconnect_on_disconnect">Cuando la conexión PFN se interrumpe, PFN se reconectará automáticamente.</string>
+    <string name="reconnect_on_restart">Cuando el teléfono se reinicie, PFN se conectará automáticamente.</string>
+    <string name="connect_on_celluar">Conectar automáticamente en redes de celluar.</string>
+    <string name="connect_on_non_secure_nets">Conectarse automáticamente en redes no seguras.</string>
+    <string name="when_connected_to_new">Cuando se conecta a un nuevo WiFi</string>
+    <string name="note">Advertencia</string>
+    <string name="automatically">Automáticamente</string>
+    <string name="auto_non_nat_networks_desc">Le asigna una IP pública única para su sesión PFN.</string>
+    <string name="auto_nat_networks_desc">Le asigna una ip pública compartida para su sesión PFN. (Advertencia: la protección P2P, el reenvío de puertos no se admite en redes Nat. Estas funciones se desactivarán cuando se seleccione Nat Network).</string>
+    <string name="auto_non_nat_networks">Redes no nacionales</string>
+    <string name="auto_nat_networks">Redes Nat</string>
+    <string name="net_auto_desc">Lo conectamos a cualquiera de estas redes según la capacidad disponible.</string>
+    <string name="note_description">Solo para usuarios avanzados. Por favor, no cambie esta configuración hasta que sepa lo que está haciendo.</string>
+
+
+</resources>

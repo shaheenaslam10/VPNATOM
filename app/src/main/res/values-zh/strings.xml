@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Chinese language -->
+<resources>
+
+    <string name="logout">登出</string>
+    <string name="logout_description">你確定要退出嗎？您將不再連接到PFN服務</string>
+
+    <string name="click_to_add_channel">图标在此处添加您喜欢的频道</string>
+
+    <string name="error_list">获取列表时出错</string>
+
+    <string name="app_name">VPNATOM</string>
+    <string name="military_grade">全面保護的軍用級加密</string>
+    <string name="military_discription">通過加強加密實現全面的互聯網自由，安全和隱私，確保您的匿名性</string>
+    <string name="ozone_protection">臭氧保护</string>
+    <string name="ozone_description">24/7通过难以捉摸的安全性提供保护</string>
+    <string name="dont_have_account">没有PFN账户？</string>
+    <string name="click_here_to_learn_more">点击这里了解更多</string>
+    <string name="security_app_pays">為自己付出代價的安全解決方案</string>
+    <string name="the_private_family_network">私人家庭网络</string>
+    <string name="world_class_premium_online_security_solutions">世界级高级在线安全解决方案</string>
+    <string name="incridible_opertunity">难以置信的机会</string>
+    <string name="gold_standard">关系营销的黄金标准</string>
+    <string name="private_family_network">立即访问私人家庭网络
+并享受所有额外的好处。</string>
+    <string name="done_desc">輸入用戶名和密碼，然後單擊“完成”</string>
+    <string name="share_text">嗨，如果你曾經想要進入一些真正的巨大的東西 - 現在是你的機會 - 即將推出一個完美定時的創新，以便在龐大的全球市場中享受爆炸式增長。如果你想要你的分享 - 點擊這裡了解更多,,, https：//user.theprivatefamilynetwork.com/registration/</string>
+    <string name="onDemand_working">隨需工作</string>
+
+    <string name="click_to_add_1">點擊    </string>
+    <string name="click_to_add_2">圖標在此處添加您最喜歡的位置</string>
+
+    <string name="total_online_security2">為所有家庭提供安全，隱私和互聯網自由</string>
+
+    <string name="app_intro_skip">跳跃</string>
+    <string name="next">下一个</string>
+    <string name="skip">跳跃</string>
+    <string name="start">得到它了</string>
+    <string name="done">完成</string>
+    <string name="app_bar_configure">配置</string>
+    <string name="app_bar_pfn">PFN</string>
+    <string name="gravity_discription">没有重力，我们会在哪里？所有威胁都可能渗入您的系统并使您面临风险。</string>
+    <string name="back">背部</string>
+    <string name="enabled_gravity_discription">重力正在保护您，以确保您的心灵。您可以全天候免受病毒，恶意网站和恶意软件的侵害。</string>
+    <string name="login">登录</string>
+    <string name="hd_stream">HD STREAM</string>
+    <string name="hd_stream_description">在世界任何地方进行流式传输时，体验无限带宽</string>
+    <string name="internet_freedom_description">在没有地理限制的情况下上网，享受来自世界各地的内容</string>
+    <string name="security_privacy_description">通过加强加密，您可以获得完全的互联网自由和隐私，确保您的匿名性</string>
+    <string name="internet_freedom">互联网自由</string>
+    <string name="security_privacy">安全/隐私</string>
+    <string name="file_sharing">文件共享</string>
+    <string name="file_sharing_description">在众多高速文件共享平台上即时和私下共享您的文件</string>
+    <string name="dedicated_ip">专用IP</string>
+    <string name="dedicated_ip_descriptipon">快来了</string>
+    <string name="mode_selection">选择最适合您目的的模式。
+通过使用最合适的模式，我们可以优化您的网络性能。</string>
+    <string name="select_mode">选择模式</string>
+    <string name="app_bar_forgot_password_text">忘记密码</string>
+    <string name="forgot_password">忘记密码？</string>
+    <string name="app_bar_gravity">Gravity</string>
+    <string name="forgot_password_instructions">输入您的用户名，然后点按“完成”。我们会向您发送一封电子邮件，说明如何重置密码。</string>
+    <string name="title_activity_main_app">MainAppActivity</string>
+    <string name="select_mode_that_serves_you_best">選擇最適合您特定用途的模式，優化您的網絡性能</string>
+    <string name="label_title"><font fgcolor="#ffff0000">私人家庭网络</font></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="title_activity_location_countries"><font fgcolor="#ffff0000">地点</font></string>
+    <string name="title_activity_purpose">PurposeActivity</string>
+    <string name="title_activity_channel">ChannelActivity</string>
+    <string name="title_activity_internet_freedom">InternetFreedomActivity</string>
+    <string name="title_activity_security">SecurityActivity</string>
+    <string name="title_activity_location_security">LocationSecurityActivity</string>
+    <string name="title_activity_file_sharing">FileSharingActivity</string>
+    <string name="title_activity_file_share_quick_connect">FileShareQuickConnectActivity</string>
+    <string name="title_activity_file_share_mode_selection">FileShareModeSelectionActivity</string>
+    <string name="title_activity_internet_freedom_locations">InternetFreedomLocationsActivity
+    </string>
+    <string name="atom_secret_key">b12e0405d803ba771c46bb94be29a0a59f976b06</string>
+
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates the use of Atom SDK for
+            Privacy and Security.
+
+
+        ]]>
+    </string>
+    <string name="label_uuid">UUID</string>
+    <string name="label_connect_via">Connect with</string>
+    <string name="label_connect_with_psk">Connect with Pre-Shared Key</string>
+    <string name="label_connect_with_params">Connect with Params</string>
+    <string name="label_connect_with_dedicated_ip">Connect with Dedicated IP</string>
+    <string name="lbl_optimize_connection">Optimize Connection</string>
+    <string name="lbl_connect">Connect</string>
+    <string name="lbl_select_protocol">Select Protocol</string>
+    <string name="lbl_dedicated_ip">Dedicated IP</string>
+    <string name="lbl_skip_user_verification">Skip User Verification</string>
+    <string name="lbl_pre_shared_key">Pre-Shared Key</string>
+    <string name="empty_secret_key">Secret Key is required</string>
+    <string name="lbl_primary_protocol">Primary Protocol</string>
+    <string name="lbl_secondary_protocol">Secondary Protocol</string>
+    <string name="lbl_tertiary_protocol">Tertiary Protocol</string>
+    <string name="lbl_select_country">Select Country</string>
+
+    <string name="doiget">我是否拥有自己独特的私人家庭\ n网络网站URL？</string>
+    <string name="doyouprovide">您是否提供任何营销材料或工具？</string>
+    <string name="caniview">我可以查看我的奖励佣金和用户推荐吗？</string>
+    <string name="howdoigetpaid">如何获得我的佣金奖励和奖金？</string>
+    <string name="caniusemyunique">我可以使用我的独特私人家庭网络进行离线推广吗？</string>
+
+    <!-- <string name="answer1">Yes, you get your very own unique private family network relationship marketing referral website,  that you can immediately use and share with all of your online promotions. Add it to your own website, outgoing emails, or even your Facebook and LinkedIn profiles.\n\nEach and every click that is generated from your unique private family network referral website, will be tracked by our private family network software marketing system.  You\'ll be able to view all of your website visitors and sales in your private family network service user back office area at any time.</string>
+     <string name="answer2">Yes. Once you purchase your security app and set it up, you\'ll instantly receive your own personalized website and get access to a variety of simple to copy and paste marketing tools that you can use immediately to help generate referral user app commissions.\n\nEach of those marketing tools will have your own unique relationship marketing link embedded in it so that the visitors you refer to your website will always be tracked by our global secure tracking system. You\'ll also have 24/7 access to a host of training manuals and a selection of live and video archived product and opportunity training webinars via your back office covering a wide range of topics. If you need help in an area, Just ask us and we\'ll cover it!</string>
+     <string name="answer3">Yes you can.\n\nYou will get complete access to all of your reward commissions and referral website visitor traffic in your private back office area.\n\nYou will also be able to view your performance on an hr/daily/weekly and monthly basis with full reporting tools available.</string>
+     <string name="answer4">Your digital account will be credited with direct referral rewards and bonuses once your referred users have successfully purchased, downloaded and activated their App. You will also receive residual ongoing monthly rewards once you have qualified to earn at specific levels of our matrix rewards program. You must have directly referred 1 currently active App service user to earn from levels 1-3. Three currently active direct App service referrals are required to earn from level 4 to 6 and earnings beyond level 7 requires a minimum of 5 currently active directly referred App service users.  Watch our opportunity video for more information on how the commissions, rewards and bonuses are calculated.\n\nAll Rewards and bonus commissions are paid out directly internationally on the 15th of each calender month into users back office online eBanking Account. Further details are set out in our marketing program opportunity PDF on our opportunity page.</string>
+     <string name="answer5">Yes you can.\n\nYou can use your Private Family Network website user id to promote your security products and services both online and offline, provided it complies with our marketing program terms of use.\n\nOffline flyers, promotional and business cards or mailers are some of the many ideas for offline marketing campaigns which your unique PFN code can be used for.</string> -->
+
+    <!-- P2p Contents -->
+
+    <string name="toolbar_name">P2P保护</string>
+    <string name="toolbar_back_button">PFN</string>
+    <string name="p2p_protection">PP2P保护</string>
+    <string name="p2p_protection_description">在网上\ n下载或共享文件时阻止病毒，恶意软件等</string>
+    <string name="content_filtering_heading">内容过滤</string>
+    <string name="content_description">过滤不需要的网页内容</string>
+
+    <!-- Ozone Contents -->
+
+    <string name="ozone_antivirus">杀毒软件</string>
+    <string name="ozone_toolbar_back_button">PFN</string>
+    <string name="ozone_toolbar_heading">臭氧</string>
+    <string name="ozone_antivirus_description">保持抵御传入威胁</string>
+    <string name="ozone_content_filtering">内容过滤</string>
+    <string name="ozone_content_filtering_description">过滤不需要的网页内容</string>
+    <string name="ozone_ids_ips">IDS/IPS</string>
+    <string name="ozone_ids_ips_description">检测和防止入侵者</string>
+    <string name="ozone_url_filtering">网址过滤</string>
+    <string name="ozone_url_filtering_description">控制允许加载哪些网站</string>
+    <string name="ozone_app_filtering">APP过滤</string>
+    <string name="ozone_app_filtering_description">控制允许运行哪些应用程序</string>
+    <string name="ozone_url_filtering_config">配置</string>
+    <string name="ozone_app_filtering_config">配置</string>
+
+    <!-- Gravity Contents -->
+
+    <string name="gravity_toolbar_heading">Gravity</string>
+    <string name="gravity_toolbar_back_button">PFN</string>
+    <string name="gravity_toolbar_configure">配置</string>
+    <string name="gravity_disabled_text">残</string>
+    <string name="gravity_enabled_text">启用</string>
+    <string name="gravity_text_large">Gravity</string>
+    <string name="gravity_text_large_description">没有重力，我们会在哪里？所有威胁都可能渗入您的系统并使您面临风险。</string>
+
+    <!-- Settings Contents -->
+
+    <string name="settings_toolbar_heading">设置</string>
+    <string name="settings_toolbar_back_button">PFN</string>
+    <string name="settings_app_settings">应用设置</string>
+    <string name="settings_profile">轮廓</string>
+    <string name="settings_protocol">协议</string>
+    <string name="settings_change_language">改变语言</string>
+    <string name="settings_advanced_settings">高级设置</string>
+    <string name="settings_on_demand_vpn">按需PFN</string>
+    <string name="settings_more">更多</string>
+    <string name="settings_support_center">支持中心</string>
+    <string name="settings_about">关于私人家庭网络</string>
+    <string name="settings_logout">登出</string>
+
+
+    <!-- settings Inside Protocol -->
+
+    <string name="inside_profile">用户名</string>
+    <string name="inside_profile_heading">轮廓</string>
+    <string name="inside_profile_back">设置</string>
+    <string name="inside_protocol_heading">协议</string>
+    <string name="inside_protocol_back">设置</string>
+    <string name="inside_recomended">推荐的协议</string>
+    <string name="inside_automatic">自动</string>
+    <string name="inside_automatic_description">让PFN为您选择最合适的协议</string>
+    <string name="inside_ipsec">IPSEC</string>
+    <string name="inside_ipsec_description">选择此选项可获得更高的安</string>
+    <string name="inside_ikev2">IKEv2</string>
+    <string name="inside_ikev2_description">选择此项以获得可靠连接</string>
+    <string name="inside_manual_protocols">手册协议</string>
+    <string name="inside_show_connect">显示连接指南。</string>
+    <string name="inside_show_connect_description">显示连接屏幕上的指南。</string>
+    <string name="inside_l2tp">L2TP</string>
+    <string name="inside_l2tp_description">速度更快，安全性更高。</string>
+    <string name="inside_unable_connect">无法连接？</string>
+    <string name="inside_unable_conn_description">故障排除指南</string>
+
+    <!-- Protocol inside Unable to connect ? -->
+
+    <string name="inside_unable_connect_heading">故障排除</string>
+    <string name="inside_unable_connect_back">协议</string>
+    <string name="inside_unable_connect_description">请遵循此快速故障排除指南</string>
+    <string name="protocol_bullet_one">1.选择手动协议</string>
+    <string name="protocol_bullet_two">2.返回App主屏幕</string>
+    <string name="protocol_bullet_three">3.选择您的位置&amp;连</string>
+    <string name="protocol_bullet_four">4.使用PFN凭证\n和设备安全代码安装服务器配置文件</string>
+    <string name="protocol_bullet_five">5.转到“设备设置”>“PFN”</string>
+    <string name="protocol_bullet_six">6.切换PFN配置开关（如果不成功，\ntry不同的位置和协议）</string>
+
+
+    <!-- Settings Change language -->
+
+    <string name="inside_change_lang_heading">改变语言</string>
+    <string name="inside_change_lang_back">设置</string>
+    <string name="inside_change_lang_selected">选定的语言</string>
+    <string name="inside_change_lang_arabic">阿拉伯</string>
+    <string name="inside_change_lang_chinese">中文</string>
+    <string name="inside_change_lang_dutch">荷兰人</string>
+    <string name="inside_change_lang_eng">英语</string>
+    <string name="inside_change_lang_french">法国</string>
+    <string name="inside_change_lang_german">德语</string>
+    <string name="inside_change_lang_spanish">西班牙语</string>
+    <string name="inside_change_lang_turkish">土耳其</string>
+
+    <!-- Settings On Demand Vpn -->
+
+    <string name="inside_on_demand_heading">分裂隧道</string>
+    <string name="inside_on_demand_back">设置</string>
+    <string name="inside_on_demand_setup">設置拆分隧道</string>
+    <string name="inside_on_demand_large_text">分裂隧道</string>
+    <string name="inside_on_demand_large_text_description">拆分隧道技術是僅通過PFN網絡拆分和路由特定流量的技術，同時允許其他流量直接訪問Internet</string>
+
+    <!-- Settings Support Centre -->
+
+    <string name="inside_support_heading">支持票</string>
+    <string name="inside_support_back">设置</string>
+    <string name="inside_support_submit_text">提交支持票</string>
+    <string name="inside_support_description">回复将从我们的客户支持人员发送到您的PFN帐户电子邮件地址。</string>
+    <string name="inside_support_hint">请详细描述您遇到的问题。</string>
+    <string name="inside_support_button">提交</string>
+
+    <!-- Settings About -->
+
+    <string name="inside_about_heading">关于</string>
+    <string name="inside_about_back">设置</string>
+    <string name="inside_about_pfn_opportunity">PFN机会</string>
+    <string name="inside_about_pfn_back_office">PFN后台办公室</string>
+    <string name="inside_about_privacy_policy">隐私政策</string>
+    <string name="inside_about_terms">服务条款</string>
+
+    <!-- Faq Contents -->
+
+    <string name="inside_faq_heading">FAQ</string>
+    <string name="inside_faq_back">PFN</string>
+    <string name="inside_faq_one_text">我是否拥有自己独特的私人家庭\n网络网站URL？</string>
+    <string name="inside_faq_two_text">您是否提供任何营销材料或工具？</string>
+    <string name="inside_faq_three_text">我可以查看我的奖励佣金和用户推荐吗？</string>
+    <string name="inside_faq_four_text">如何获得我的佣金奖励和奖金？</string>
+    <string name="inside_faq_five_text">我可以使用我的独特私人家庭网络进行离线推广吗？</string>
+
+    <!-- inside Faq one Contents -->
+
+    <string name="inside_faq_one_heading">回答</string>
+    <string name="inside_faq_one_back">FAQ</string>
+    <string name="answer1">是的，您可以获得自己独特的私人家庭网络关系营销推介网站，您可以立即使用并与您的所有在线促销活动分享。将其添加到您自己的网站，外发电子邮件，甚至是您的Facebook和LinkedIn个人资料。\n\n每个点击都是由您的独家私人家庭网络推荐网站生成的，我们的私人家庭网络软件营销系统将对其进行跟踪。您可以随时在私人家庭网络服务用户后台区域查看所有网站访问者和销售人员。</string>
+
+
+    <!-- inside Faq two Contents -->
+
+    <string name="inside_faq_two_heading">回答</string>
+    <string name="inside_faq_two_back">FAQ</string>
+    <string name="answer2">是。购买安全应用程序并进行设置后，您将立即收到自己的个性化网站，并可以访问各种简单的复制和粘贴营销工具，您可以立即使用这些工具来帮助生成推荐用户应用程序佣金。\n\n每次这些营销工具中将嵌入您自己独特的关系营销链接，以便您访问您网站的访问者始终可以通过我们的全球安全跟踪系统进行跟踪。您还可以通过后台办公室全天候访问大量培训手册以及一系列实时和视频存档产品和机会培训网络研讨会，涵盖广泛的主题。如果您需要某个地区的帮助，请问我们，我们将覆盖它！</string>
+    <!-- inside Faq three Contents -->
+
+    <string name="inside_faq_three_heading">回答</string>
+    <string name="inside_faq_three_back">FAQ</string>
+    <string name="answer3">是的，你可以。\n\n您可以完全访问您私人后台办公区域内的所有奖励佣金和推荐网站访客流量。\n\n您还可以按小时/每日/每周查看您的表现。每月提供完整的报告工具。</string>
+
+    <!-- inside Faq four Contents -->
+
+    <string name="inside_faq_four_heading">回答</string>
+    <string name="inside_faq_four_back">FAQ</string>
+    <string name="answer4">一旦您的推荐用户成功购买，下载并激活他们的应用程序，您的数字帐户将获得直接推荐奖励和奖金。一旦您有资格获得特定级别的矩阵奖励计划，您还将获得剩余的每月持续奖励。您必须直接推荐1个当前活跃的App服务用户才能从1-3级获得收入。目前有三个活跃的直接App服务推荐需要从4级到6级获得，而超过7级的收入需要至少5个当前活跃的直接推荐的App服务用户。观看我们的机会视频，了解有关如何计算佣金，奖励和奖金的更多信息。\n\n所有奖励和奖金佣金将在每个日历月的15日直接在国际上支付给用户后台在线电子银行账户。有关详细信息，请参阅我们的机会页面上的营销计划机会PDF。</string>
+
+    <!-- inside Faq five Contents -->
+
+    <string name="inside_faq_five_heading">回答</string>
+    <string name="inside_faq_five_back">FAQ</string>
+    <string name="answer5">是的，您可以。\n\n您可以使用您的私人家庭网络网站用户ID在线和离线宣传您的安全产品和服务，前提是它符合我们的营销计划使用条款。\n\n离线传单，促销和名片或邮寄是离线营销活动的众多想法中的一些，您可以使用您唯一的PFN代码。</string>
+
+
+    <!-- Hd Stream Bottom Navigation Bar -->
+
+    <string name="hd_bottom_navigation_location">地点</string>
+    <string name="hd_bottom_navigation_quick">快速连接</string>
+    <string name="hd_bottom_navigation_channels">通道</string>
+    <string name="hd_stream_main_heading">HD STREAM</string>
+
+    <!-- Hd Stream Header Heading and menus-->
+
+    <string name="hd_stream_header_heading">HD STREAM</string>
+    <string name="hd_stream_nav_one">Gravity</string>
+    <string name="hd_stream_nav_two">设置</string>
+    <string name="hd_stream_nav_three">Faq</string>
+
+    <!-- Internet Freedom Bottom Navigation Bar -->
+
+    <string name="internet_bottom_navigation_location">地点</string>
+    <string name="internet_bottom_navigation_quick">快速连接</string>
+    <string name="internet_bottom_navigation_purpose">目的</string>
+    <string name="internet_bottom_navigation_main_heading">互联网自由</string>
+
+    <!-- Internet Freedom Header Heading and menus -->
+
+    <string name="internet_freedom_header_heading">互联网自由</string>
+
+    <!-- Security Privacy Bottom Navigation -->
+
+    <string name="security_bottom_navigation_location">地点</string>
+    <string name="security_bottom_navigation_quick">快速连接</string>
+    <string name="security_bottom_navigation_main_heading">安全/隐私</string>
+
+    <!-- Security Privacy Header Heading and menus -->
+
+    <string name="security_privacy_header_heading">安全/隐私</string>
+    <string name="security_privacy_nav_one">臭氧</string>
+    <string name="security_privacy_nav_two">Gravity</string>
+    <string name="security_privacy_nav_three">设置</string>
+    <string name="security_privacy_nav_four">Faq</string>
+
+
+
+    <!-- File sharing -->
+
+    <string name="file_bottom_navigation_location">地点</string>
+    <string name="file_bottom_navigation_quick">快速连接</string>
+    <string name="file_bottom_navigation_main_heading">文件共享</string>
+
+    <!-- File sharing Navigation Header Heading and menus -->
+
+    <string name="file_sharing_header_heading">文件共享</string>
+    <string name="file_sharing_nav_one">P2P保护</string>
+    <string name="file_sharing_nav_two">Gravity</string>
+    <string name="file_sharing_nav_three">设置</string>
+    <string name="file_sharing_nav_four">Faq</string>
+
+    <!-- Hd Stream Inside Locations -->
+
+    <string name="hd_stream_inside_locations_heading">地点</string>
+    <string name="hd_stream_inside_locations_countries">国家</string>
+    <string name="hd_stream_inside_locations_cities">城市</string>
+    <string name="hd_stream_inside_locations_search">搜索</string>
+    <string name="hd_stream_inside_locations_favourities">最爱</string>
+    <!--<string name="hd_stream_inside_locations_fav_desc">您最喜欢的位置将显示在此处。</string>-->
+
+    <!-- Hd Stream Inside Channels -->
+
+    <string name="hd_stream_inside_channels_heading">通道</string>
+    <string name="hd_stream_inside_channels_search">搜索</string>
+    <string name="hd_stream_inside_channels_favourities">最爱</string>
+    <string name="hd_stream_inside_channels_fav_desc">您最喜欢的位置将显示在此处。</string>
+    <string name="hd_stream_inside_channels_channels">通道</string>
+
+
+
+    <!-- Internet Freedom Inside purpose -->
+
+    <string name="internet_inside_purpose_heading">目的</string>
+    <string name="internet_inside_purpose_search">搜索</string>
+    <string name="internet_inside_purpose_favourities">最爱</string>
+    <string name="internet_inside_purpose_fav_desc">您最喜欢的位置将显示在此处。</string>
+    <string name="internet_inside_purpose_purposes">目的</string>
+
+
+    <string name="this_functionality_works_automatically">此功能自动在后端运行</string>
+
+
+    <string name="stop_viruses_malware">在線下載或共享文件時，可以阻止病毒，惡意軟件等</string>
+    <string name="update">更新</string>
+    <string name="first_name">名字</string>
+    <string name="last_name">姓</string>
+    <string name="dddress">地址</string>
+    <string name="company">公司</string>
+    <string name="choose_country">選擇國家</string>
+    <string name="favourites">最愛</string>
+    <string name="connected_to">您現在已連接到PFN</string>
+
+
+    <string name="secure_wifi">安全無線網絡</string>
+    <string name="auto_connect">自動連接</string>
+    <string name="network_type">網絡類型</string>
+    <string name="internet_kill">互聯網殺戮開關</string>
+    <string name="multi_port">多端口</string>
+    <string name="multi_port_description">多端口是一種自動端口選擇功能，可掃描要連接的開放端口。檢查已關閉或受限制的端口，然後選擇最佳連接端口。</string>
+    <string name="auto_port_description">自動端口選擇掃描開放端口以繞過端口阻塞並將您連接到最佳端口。港口範圍（53,5500-30000）</string>
+    <string name="enter_port">輸入端口號</string>
+    <string name="manual_port_selection">手動端口選擇允許您輸入所需的端口。</string>
+
+
+
+
+
+
+
+
+
+
+
+    <string name="kill_switch_desc">一旦啟用，互聯網kill swtich將在PFN連接斷開後立即關閉所有互聯網活動。重新建立PFN連接後，互聯網活動將恢復正常狀態。</string>
+    <string name="reconnect_on_disconnect">當PFN連接斷開時，PFN將自動重新連接。</string>
+    <string name="reconnect_on_restart">手機重啟時，PFN將自動連接。</string>
+    <string name="connect_on_celluar">在celluar網絡上自動連接.</string>
+    <string name="connect_on_non_secure_nets">在非安全網絡上自動連接.</string>
+    <string name="when_connected_to_new">連接到新的WiFi時</string>
+    <string name="note">警告</string>
+    <string name="automatically">自動</string>
+    <string name="auto_non_nat_networks_desc">為您的PFN會話分配一個唯一的公共IP.</string>
+    <string name="auto_nat_networks_desc">為您的PFN會話分配共享公共IP。 （警告：Nat Networks不支持P2P保護，端口轉發。選擇Nat Network時將禁用這些功能）.</string>
+    <string name="auto_non_nat_networks">非Nat網絡</string>
+    <string name="auto_nat_networks">Nat Networks</string>
+    <string name="net_auto_desc">我們根據可用容量將您連接到這些網絡中的任何一個.</string>
+    <string name="note_description">僅限高級用戶。在您知道自己在做什麼之前，請不要更改這些設置。</string>
+
+
+
+
+</resources>

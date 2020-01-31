@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.next.sheharyar.MainAppActivity"
+    tools:showIn="@layout/app_bar_main_app">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:gravity="center">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hd_stream_main_heading"
+                android:textColor="@android:color/white"
+                android:fontFamily="@font/cabin_bold_ttf"
+                android:textSize="8pt"
+                android:gravity="center"
+                android:layout_centerInParent="true"
+                android:id="@+id/mod_selection_text"/>
+
+            <ImageView
+                android:id="@+id/mod_selection_image"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_marginLeft="8dp"
+                android:layout_toRightOf="@+id/mod_selection_text"
+                android:background="@drawable/forwardicon"/>
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.skyfishjy.library.RippleBackground
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/content"
+            app:rb_color="#66b50a"
+            app:rb_radius="32dp"
+            app:rb_rippleAmount="6"
+            app:rb_duration="3000"
+            app:rb_scale="6"
+            android:visibility="visible">
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_centerInParent="true"
+                android:id="@+id/center_button"
+                android:src="@drawable/hdstream_quickconnect2"/>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/center_button">
+
+
+                    <TextView
+                        android:id="@+id/status"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:textSize="17dp"
+                        android:gravity="center"/>
+
+
+                    <TextView
+                        android:id="@+id/s_country"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:layout_marginTop="5dp"
+                        android:textSize="17dp"
+                        android:textStyle="bold"
+                        android:layout_below="@+id/status"
+                        android:gravity="center"/>
+
+
+            </LinearLayout>
+
+
+            <EditText
+                android:id="@+id/dedicated_host"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:ems="10"
+                android:hint="Enter Dedicated Host"
+                android:inputType="text"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_below="@+id/s_country"
+                android:visibility="gone"
+                android:backgroundTint="@android:color/white"/>
+
+        </com.skyfishjy.library.RippleBackground>
+
+
+    </RelativeLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
